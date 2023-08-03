@@ -1,0 +1,1587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://themilkybox.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://themilkybox.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://themilkybox.com/collections/goat-milk-formulas.atom"/>
+  <title>The Milky Box</title>
+  <updated>2023-05-23T13:24:32-05:00</updated>
+  <author>
+    <name>The Milky Box</name>
+  </author>
+  <entry>
+    <id>https://themilkybox.com/products/7980395004117</id>
+    <published>2023-05-23T13:24:32-05:00</published>
+    <updated>2023-05-23T13:24:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/holle-goat-milk-stage-4-organic-todler-formula"/>
+    <title>Holle Goat Stage 4 (400g) Organic Toddler Milk Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>Holle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/holle-goat-stage-4-400g-organic-toddler-milk-formula-379921.jpg?v=1685319634"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Holle<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            33.99 - 371.88
+            <a href="https://themilkybox.com/products/holle-goat-milk-stage-4-organic-todler-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul data-mce-fragment="1">
+<li style="font-weight: 400;"><span style="font-weight: 400;">Whole Organic Goat’s Milk</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Palm Oil and Coconut Oil Free </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Fish Oil Free DHA</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12+ Months</s:tag>
+    <s:tag>A2 Milk</s:tag>
+    <s:tag>Goat Milk</s:tag>
+    <s:tag>Holle</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Stage 4</s:tag>
+    <s:tag>Toddler</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7980395004117</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>europa-Holle-Goat-Stage4-Single</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7980395004117</id>
+      <title>8 Pack</title>
+      <s:price currency="USD">263.92</s:price>
+      <s:sku>euro-Holle-Goat-Stage4-8Pack</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7980395004117</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">371.88</s:price>
+      <s:sku>euro-Holle-Goat-Stage4-12Pack</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7980394184917</id>
+    <published>2023-05-23T13:22:04-05:00</published>
+    <updated>2023-05-23T13:22:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/holle-goat-stage-pre-organic-infant-baby-formula"/>
+    <title>Holle Goat Stage PRE (400g) Organic Infant Baby Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>Holle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/holle-goat-stage-pre-400g-organic-infant-baby-formula-798269.jpg?v=1685319652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Holle<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            33.99 - 371.88
+            <a href="https://themilkybox.com/products/holle-goat-stage-pre-organic-infant-baby-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul data-mce-fragment="1">
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">DHA (omega-3) from algae oil</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Palm oil Free</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Organic A2 goat’s milk protein</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-6 months</s:tag>
+    <s:tag>A2 Milk</s:tag>
+    <s:tag>Goat Milk</s:tag>
+    <s:tag>Holle</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Stage PRE</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7980394184917</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>europa-Holle-Goat-StagePre-Single</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7980394184917</id>
+      <title>8 Pack</title>
+      <s:price currency="USD">263.92</s:price>
+      <s:sku>neder-Holle-Goat-StagePre-8Pack</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7980394184917</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">371.88</s:price>
+      <s:sku>neder-Holle-Goat-StagePre-12Pack</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7915906105557</id>
+    <published>2022-11-07T11:29:27-06:00</published>
+    <updated>2022-11-07T11:29:27-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/nanny-goat-stage-2-organic-baby-formula"/>
+    <title>Nannycare Goat Stage 2 (900g) Baby Formula</title>
+    <s:type>Formula</s:type>
+    <s:vendor>Nannycare</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/nannycare-goat-stage-2-900g-baby-formula-112087.jpg?v=1684167498"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannycare<br>
+        <strong>Type: </strong>Formula<br>
+        <strong>Price: </strong>
+            62.99 - 719.88
+            <a href="https://themilkybox.com/products/nanny-goat-stage-2-organic-baby-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">No Skim Milk, Full Cream Goat Milk Only</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Starch Free</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Palm Oil Free</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12+ Months</s:tag>
+    <s:tag>6+ Months</s:tag>
+    <s:tag>6-12 months</s:tag>
+    <s:tag>Formula</s:tag>
+    <s:tag>Goat Milk</s:tag>
+    <s:tag>Nannycare</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Sensitive</s:tag>
+    <s:tag>Stage 2</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915906105557</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>briton-Nannycare-Goat-Stage2-Single</s:sku>
+      <s:grams>576</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915906105557</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">371.94</s:price>
+      <s:sku>briton-Nannycare-Goat-Stage2-6Pack</s:sku>
+      <s:grams>3456</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915906105557</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">719.88</s:price>
+      <s:sku>briton-Nannycare-Goat-Stage2-12Pack</s:sku>
+      <s:grams>6913</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7915907743957</id>
+    <published>2022-11-07T11:29:26-06:00</published>
+    <updated>2022-11-07T11:29:26-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/nannycare-goat-stage-3-organic-baby-formula"/>
+    <title>Nannycare Goat Stage 3 (900g) Toddler Formula</title>
+    <s:type>Formula</s:type>
+    <s:vendor>Nannycare</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/nannycare-goat-stage-3-900g-toddler-formula-497396.jpg?v=1684167498"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannycare<br>
+        <strong>Type: </strong>Formula<br>
+        <strong>Price: </strong>
+            62.99 - 719.88
+            <a href="https://themilkybox.com/products/nannycare-goat-stage-3-organic-baby-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Full Cream Goat’s Milk</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Palm Oil and Coconut Oil Free </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Fish Oil Free DHA</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12+ Months</s:tag>
+    <s:tag>Formula</s:tag>
+    <s:tag>Goat Milk</s:tag>
+    <s:tag>Nannycare</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Sensitive</s:tag>
+    <s:tag>Stage 3</s:tag>
+    <s:tag>Toddler</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915907743957</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>briton-Nannycare-Goat-Stage3-Single</s:sku>
+      <s:grams>576</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915907743957</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">371.94</s:price>
+      <s:sku>briton-Nannycare-Goat-Stage3-6Pack</s:sku>
+      <s:grams>3456</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915907743957</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">719.88</s:price>
+      <s:sku>briton-Nannycare-Goat-Stage3-12Pack</s:sku>
+      <s:grams>6913</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7915907317973</id>
+    <published>2022-11-07T11:29:26-06:00</published>
+    <updated>2022-11-07T11:29:26-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/nannycare-goat-stage-1-organic-baby-formula"/>
+    <title>Nannycare Goat Stage 1 (900g) Baby Formula</title>
+    <s:type>Formula</s:type>
+    <s:vendor>Nannycare</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/nannycare-goat-stage-1-900g-baby-formula-439528.jpg?v=1684167497"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannycare<br>
+        <strong>Type: </strong>Formula<br>
+        <strong>Price: </strong>
+            62.99 - 719.88
+            <a href="https://themilkybox.com/products/nannycare-goat-stage-1-organic-baby-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Full Cream, Whole Goat Milk</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Palm oil Free</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">No Added Whey </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-6 months</s:tag>
+    <s:tag>Formula</s:tag>
+    <s:tag>Goat Milk</s:tag>
+    <s:tag>Nannycare</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Sensitive</s:tag>
+    <s:tag>Stage 1</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915907317973</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>briton-Nannycare-Goat-Stage1-Single</s:sku>
+      <s:grams>576</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915907317973</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">371.94</s:price>
+      <s:sku>briton-Nannycare-Goat-Stage1-6Pack</s:sku>
+      <s:grams>3456</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915907317973</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">719.88</s:price>
+      <s:sku>briton-Nannycare-Goat-Stage1-12Pack</s:sku>
+      <s:grams>6913</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7915960828117</id>
+    <published>2022-11-07T11:29:24-06:00</published>
+    <updated>2022-11-07T11:29:24-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/premibio-goat-stage-1-organic-baby-milk-formula"/>
+    <title>Premibio Goat Stage 1 (600g) Organic Baby Milk Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>Premibio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/premibio-goat-stage-1-600g-organic-baby-milk-formula-349375.jpg?v=1684167502"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Premibio<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            45.99 - 515.88
+            <a href="https://themilkybox.com/products/premibio-goat-stage-1-organic-baby-milk-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">100% Organic </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">A2 Milk</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Plant Based DHA</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-6 months</s:tag>
+    <s:tag>A2 Milk</s:tag>
+    <s:tag>Goat Milk</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Premibio</s:tag>
+    <s:tag>Stage 1</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915960828117</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>europa-Premibio-Goat-Stage1-Single</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915960828117</id>
+      <title>8 Pack</title>
+      <s:price currency="USD">359.92</s:price>
+      <s:sku>euro-Premibio-Goat-Stage1-8Pack</s:sku>
+      <s:grams>3402</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915960828117</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">515.88</s:price>
+      <s:sku>euro-Premibio-Goat-Stage1-12Pack</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7915963875541</id>
+    <published>2022-11-07T11:29:23-06:00</published>
+    <updated>2022-11-07T11:29:23-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/premibio-goat-stage-2-organic-baby-milk-formula"/>
+    <title>Premibio Goat Stage 2 (600g) Organic Baby Milk Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>Premibio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/premibio-goat-stage-2-600g-organic-baby-milk-formula-860052.jpg?v=1684167508"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Premibio<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            45.99 - 515.88
+            <a href="https://themilkybox.com/products/premibio-goat-stage-2-organic-baby-milk-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">100% Organic </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Palm Oil &amp; Fish Oil Free</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Easy to Digest</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6+ Months</s:tag>
+    <s:tag>6-12 months</s:tag>
+    <s:tag>A2 Milk</s:tag>
+    <s:tag>Goat Milk</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Premibio</s:tag>
+    <s:tag>Stage 2</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915963875541</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>europa-Premibio-Goat-Stage2-Single</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915963875541</id>
+      <title>8 Pack</title>
+      <s:price currency="USD">359.92</s:price>
+      <s:sku>euro-Premibio-Goat-Stage2-8Pack</s:sku>
+      <s:grams>3402</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915963875541</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">515.88</s:price>
+      <s:sku>euro-Premibio-Goat-Stage2-12Pack</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7915967185109</id>
+    <published>2022-11-07T11:29:22-06:00</published>
+    <updated>2022-11-07T11:29:22-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/premibio-goat-stage-3-organic-baby-milk-formula"/>
+    <title>Premibio Goat Stage 3 (600g) Organic Toddler Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>Premibio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/premibio-goat-stage-3-600g-organic-toddler-formula-184526.jpg?v=1684167513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Premibio<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            45.99 - 515.88
+            <a href="https://themilkybox.com/products/premibio-goat-stage-3-organic-baby-milk-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">100% Organic </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Palm oil &amp; Fish oil </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Dairy components only goat milk</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12+ Months</s:tag>
+    <s:tag>A2 Milk</s:tag>
+    <s:tag>Goat Milk</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Premibio</s:tag>
+    <s:tag>Stage 3</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915967185109</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>europa-Premibio-Goat-Stage3-Single</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915967185109</id>
+      <title>8 Pack</title>
+      <s:price currency="USD">359.92</s:price>
+      <s:sku>euro-Premibio-Goat-Stage3-8Pack</s:sku>
+      <s:grams>3402</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915967185109</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">515.88</s:price>
+      <s:sku>euro-Premibio-Goat-Stage3-12Pack</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7915916820693</id>
+    <published>2022-11-07T11:29:18-06:00</published>
+    <updated>2022-11-07T11:29:18-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/kabrita-goat-stage-2-baby-formula"/>
+    <title>Kabrita Goat Stage 2 (800g) Baby Formula</title>
+    <s:type>Formula</s:type>
+    <s:vendor>Kabrita</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/kabrita-goat-stage-2-800g-baby-formula-407445.jpg?v=1684167477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kabrita<br>
+        <strong>Type: </strong>Formula<br>
+        <strong>Price: </strong>
+            62.99 - 719.88
+            <a href="https://themilkybox.com/products/kabrita-goat-stage-2-baby-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Dutch A2 Goat Milk</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Prebiotic GOS Fiber</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Palm Oil Free</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6+ Months</s:tag>
+    <s:tag>6-12 months</s:tag>
+    <s:tag>Formula</s:tag>
+    <s:tag>Goat Milk</s:tag>
+    <s:tag>Kabrita</s:tag>
+    <s:tag>Sensitive</s:tag>
+    <s:tag>Stage 2</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915916820693</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>europa-Kabrita-Goat-Stage2-Single</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915916820693</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">371.94</s:price>
+      <s:sku>euro-Kabrita-Goat-Stage2-6Pack</s:sku>
+      <s:grams>5933</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915916820693</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">719.88</s:price>
+      <s:sku>euro-Kabrita-Goat-Stage2-12Pack</s:sku>
+      <s:grams>11866</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7915882610901</id>
+    <published>2022-11-07T11:29:17-06:00</published>
+    <updated>2022-11-07T11:29:17-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/kabrita-goat-stage-3-baby-formula"/>
+    <title>Kabrita Goat Stage 3 (800g) Toddler Formula</title>
+    <s:type>Formula</s:type>
+    <s:vendor>Kabrita</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/kabrita-goat-stage-3-800g-toddler-formula-755226.jpg?v=1684167489"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kabrita<br>
+        <strong>Type: </strong>Formula<br>
+        <strong>Price: </strong>
+            62.99 - 719.88
+            <a href="https://themilkybox.com/products/kabrita-goat-stage-3-baby-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Natural A2 goat’s milk</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">DHA and ARA </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">22 Vitamins and Minerals</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Formula</s:tag>
+    <s:tag>Goat Milk</s:tag>
+    <s:tag>Kabrita</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Sensitive</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915882610901</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>europa-Kabrita-Goat-Stage3-Single</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915882610901</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">371.94</s:price>
+      <s:sku>euro-Kabrita-Goat-Stage3-6Pack</s:sku>
+      <s:grams>5933</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915882610901</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">719.88</s:price>
+      <s:sku>euro-Kabrita-Goat-Stage3-12Pack</s:sku>
+      <s:grams>11866</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7915879432405</id>
+    <published>2022-11-07T11:29:17-06:00</published>
+    <updated>2022-11-07T11:29:17-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/kabrita-goat-stage-1-baby-formula"/>
+    <title>Kabrita Goat Stage 1  (800g) Baby Formula</title>
+    <s:type>Formula</s:type>
+    <s:vendor>Kabrita</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/kabrita-goat-stage-1-800g-baby-formula-734380.jpg?v=1684167483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kabrita<br>
+        <strong>Type: </strong>Formula<br>
+        <strong>Price: </strong>
+            62.99 - 719.88
+            <a href="https://themilkybox.com/products/kabrita-goat-stage-1-baby-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">A2 Goat Milk</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">22 Vitamins &amp; Minerals</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">GOS Prebiotics</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-6 months</s:tag>
+    <s:tag>Formula</s:tag>
+    <s:tag>Goat Milk</s:tag>
+    <s:tag>Kabrita</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Sensitive</s:tag>
+    <s:tag>Stage 1</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915879432405</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>europa-Kabrita-Goat-Stage1-Single</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915879432405</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">371.94</s:price>
+      <s:sku>euro-Kabrita-Goat-Stage1-6Pack</s:sku>
+      <s:grams>5933</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915879432405</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">719.88</s:price>
+      <s:sku>euro-Kabrita-Goat-Stage1-12Pack</s:sku>
+      <s:grams>11866</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7915873337557</id>
+    <published>2022-11-07T11:29:16-06:00</published>
+    <updated>2022-11-07T11:29:16-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/jovie-goat-stage-3-organic-baby-formula"/>
+    <title>Jovie Goat Stage 3 (800g) Organic Toddler Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>Jovie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/jovie-goat-stage-3-800g-organic-toddler-formula-233334.jpg?v=1684167479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jovie<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            62.99 - 719.88
+            <a href="https://themilkybox.com/products/jovie-goat-stage-3-organic-baby-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Organic &amp; Pure</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Full Cream Goat Milk as the No 1 Ingredient</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Without Palm oil or Soy</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10+ Months</s:tag>
+    <s:tag>Allergies</s:tag>
+    <s:tag>Gassiness</s:tag>
+    <s:tag>Goat Milk</s:tag>
+    <s:tag>Jovie</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Sensitive</s:tag>
+    <s:tag>Stage 3</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915873337557</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>europa-Jovie-Goat-Stage3-Single</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915873337557</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">371.94</s:price>
+      <s:sku>euro-Jovie-Goat-Stage3-6Pack</s:sku>
+      <s:grams>5933</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915873337557</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">719.88</s:price>
+      <s:sku>euro-Jovie-Goat-Stage3-12pack</s:sku>
+      <s:grams>11866</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7915871961301</id>
+    <published>2022-11-07T11:29:16-06:00</published>
+    <updated>2022-11-07T11:29:16-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/jovie-goat-stage-2-organic-baby-formula"/>
+    <title>Jovie Goat Stage 2 (800g) Organic Baby Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>Jovie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/jovie-goat-stage-2-800g-organic-baby-formula-272527.jpg?v=1684167479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jovie<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            62.99 - 719.88
+            <a href="https://themilkybox.com/products/jovie-goat-stage-2-organic-baby-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">100% Organic Formula</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Full Cream Goat Milk </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Organic Prebiotic </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6+ Months</s:tag>
+    <s:tag>6-10 months</s:tag>
+    <s:tag>Allergies</s:tag>
+    <s:tag>Gassiness</s:tag>
+    <s:tag>Goat Milk</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Stage2</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915871961301</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>europa-Jovie-Goat-Stage2-Single</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915871961301</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">371.94</s:price>
+      <s:sku>euro-Jovie-Goat-Stage2-6Pack</s:sku>
+      <s:grams>5933</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915871961301</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">719.88</s:price>
+      <s:sku>euro-Jovie-Goat-Stage2-12pack</s:sku>
+      <s:grams>11866</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7915841716437</id>
+    <published>2022-11-07T11:29:15-06:00</published>
+    <updated>2022-11-07T11:29:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/kendamil-goat-stage-3-organic-baby-formula"/>
+    <title>Kendamil Goat Stage 3 (800g) Toddler Formula</title>
+    <s:type>Formula</s:type>
+    <s:vendor>Kendamil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/kendamil-goat-stage-3-800g-toddler-formula-412724.jpg?v=1684167492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kendamil<br>
+        <strong>Type: </strong>Formula<br>
+        <strong>Price: </strong>
+            62.99 - 719.88
+            <a href="https://themilkybox.com/products/kendamil-goat-stage-3-organic-baby-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Red Tractor Certified Farming</span></li>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">Human Milk Oligosaccharides</span> <span style="font-weight: 400;">(HMOs)</span>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Plant-based DHA Cognitive Development</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10+ Months</s:tag>
+    <s:tag>Allergies</s:tag>
+    <s:tag>Formula</s:tag>
+    <s:tag>Gassiness</s:tag>
+    <s:tag>Goat Milk</s:tag>
+    <s:tag>Holle</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Sensitive</s:tag>
+    <s:tag>Stage 3</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915841716437</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>briton-Kendamil-Goat-Stage3-Single</s:sku>
+      <s:grams>989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915841716437</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">371.94</s:price>
+      <s:sku>briton-Kendamil-Goat-Stage3-6Pack</s:sku>
+      <s:grams>5933</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915841716437</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">719.88</s:price>
+      <s:sku>briton-Kendamil-Goat-Stage3-12Pack</s:sku>
+      <s:grams>11866</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7915841192149</id>
+    <published>2022-11-07T11:29:14-06:00</published>
+    <updated>2022-11-07T11:29:14-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/kendamil-goat-stage-2-organic-baby-formula"/>
+    <title>Kendamil Goat Stage 2 (800g) Baby Formula</title>
+    <s:type>Formula</s:type>
+    <s:vendor>Kendamil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/kendamil-goat-stage-2-800g-baby-formula-443647.jpg?v=1684167492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kendamil<br>
+        <strong>Type: </strong>Formula<br>
+        <strong>Price: </strong>
+            62.99 - 719.88
+            <a href="https://themilkybox.com/products/kendamil-goat-stage-2-organic-baby-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;">Red Tractor Certified Farming</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Plant-Based DHA</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">No Palm Oil</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6+ Months</s:tag>
+    <s:tag>6-10 months</s:tag>
+    <s:tag>Allergies</s:tag>
+    <s:tag>Formula</s:tag>
+    <s:tag>Gassiness</s:tag>
+    <s:tag>Goat Milk</s:tag>
+    <s:tag>Kendamil</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Stage2</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915841192149</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>briton-Kendamil-Goat-Stage2-Single</s:sku>
+      <s:grams>989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915841192149</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">371.94</s:price>
+      <s:sku>briton-Kendamil-Goat-Stage2-6Pack</s:sku>
+      <s:grams>5933</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915841192149</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">719.88</s:price>
+      <s:sku>briton-Kendamil-Goat-Stage2-12Pack</s:sku>
+      <s:grams>11866</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7915838308565</id>
+    <published>2022-11-07T11:29:14-06:00</published>
+    <updated>2022-11-07T11:29:14-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/kendamil-goat-stage-1-organic-baby-formula"/>
+    <title>Kendamil Goat Stage 1 (800g) Baby Formula</title>
+    <s:type>Formula</s:type>
+    <s:vendor>Kendamil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/kendamil-goat-stage-1-800g-baby-formula-121502.jpg?v=1684167492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kendamil<br>
+        <strong>Type: </strong>Formula<br>
+        <strong>Price: </strong>
+            62.99 - 719.88
+            <a href="https://themilkybox.com/products/kendamil-goat-stage-1-organic-baby-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;">Red Tractor Certified Farming</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Whole Milk Fats  </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Plant Based DHA</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-6 months</s:tag>
+    <s:tag>Formula</s:tag>
+    <s:tag>Goat Milk</s:tag>
+    <s:tag>Kendamil</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Sensitive</s:tag>
+    <s:tag>Stage 1</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915838308565</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>briton-Kendamil-Goat-Stage1-Single</s:sku>
+      <s:grams>989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915838308565</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">371.94</s:price>
+      <s:sku>briton-Kendamil-Goat-Stage1-6Pack</s:sku>
+      <s:grams>5933</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915838308565</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">719.88</s:price>
+      <s:sku>briton-Kendamil-Goat-Stage1-12Pack</s:sku>
+      <s:grams>6913</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7914500686037</id>
+    <published>2022-11-07T11:29:04-06:00</published>
+    <updated>2022-11-07T11:29:04-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/holle-goat-dutch-stage-3-organic-baby-formula"/>
+    <title>Holle Goat Dutch Stage 3 (800g) Organic Toddler Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>Holle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/holle-goat-dutch-stage-3-800g-organic-toddler-formula-357039.jpg?v=1684167481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Holle<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            62.99 - 719.88
+            <a href="https://themilkybox.com/products/holle-goat-dutch-stage-3-organic-baby-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Whole organic A2 goat’s milk</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Fish Oil Free</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">DHA &amp; Omega 3 for Brain Development</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10+ Months</s:tag>
+    <s:tag>Allergies</s:tag>
+    <s:tag>Dutch</s:tag>
+    <s:tag>Gassiness</s:tag>
+    <s:tag>Goat Milk</s:tag>
+    <s:tag>Holle</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Sensitive</s:tag>
+    <s:tag>Stage 3</s:tag>
+    <s:tag>Toddler</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914500686037</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>europa-Holle-Goat-Dutch-Stage3-Single</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914500686037</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">371.94</s:price>
+      <s:sku>neder-Holle-Goat-Dutch-Stage3-6Pack</s:sku>
+      <s:grams>5933</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914500686037</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">719.88</s:price>
+      <s:sku>neder-Holle-Goat-Dutch-Stage3-12Pack</s:sku>
+      <s:grams>11866</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7914458153173</id>
+    <published>2022-11-07T11:29:04-06:00</published>
+    <updated>2022-11-07T11:29:04-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/holle-goat-dutch-stage-2-organic-baby-formula"/>
+    <title>Holle Goat Dutch Stage 2 (800g) Organic Baby Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>Holle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/holle-goat-dutch-stage-2-800g-organic-baby-formula-746962.jpg?v=1684167480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Holle<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            62.99 - 719.88
+            <a href="https://themilkybox.com/products/holle-goat-dutch-stage-2-organic-baby-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Organic A2 Goat Milk</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Rich in Omega-3 (DHA &amp; ALA)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Prebiotics for a healthy gut flora</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6+ Months</s:tag>
+    <s:tag>6-10 months</s:tag>
+    <s:tag>Allergies</s:tag>
+    <s:tag>Dutch</s:tag>
+    <s:tag>Gassiness</s:tag>
+    <s:tag>Goat Milk</s:tag>
+    <s:tag>Holle</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Stage2</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914458153173</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>europa-Holle-Goat-Dutch-Stage2-Single</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914458153173</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">371.94</s:price>
+      <s:sku>neder-Holle-Goat-Dutch-Stage2-6Pack</s:sku>
+      <s:grams>5933</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914458153173</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">719.88</s:price>
+      <s:sku>neder-Holle-Goat-Dutch-Stage2-12Pack</s:sku>
+      <s:grams>11866</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7914442784981</id>
+    <published>2022-11-07T11:29:03-06:00</published>
+    <updated>2022-11-07T11:29:03-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/holle-goat-dutch-stage-1-organic-baby-formula"/>
+    <title>Holle Goat Dutch Stage 1 (800g) Organic Baby Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>Holle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/holle-goat-dutch-stage-1-800g-organic-baby-formula-917932.jpg?v=1684167477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Holle<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            62.99 - 719.88
+            <a href="https://themilkybox.com/products/holle-goat-dutch-stage-1-organic-baby-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">DHA (omega-3) from algae oil</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Palm oil Free</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Organic A2 goat’s milk protein</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-6 months</s:tag>
+    <s:tag>Allergies</s:tag>
+    <s:tag>Dutch</s:tag>
+    <s:tag>Goat Milk</s:tag>
+    <s:tag>Holle</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Sensitive</s:tag>
+    <s:tag>Stage 1</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914442784981</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>europa-Holle-Goat-Dutch-Stage1-Single</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914442784981</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">371.92</s:price>
+      <s:sku>euro-Holle-Goat-Dutch-Stage1-6Pack</s:sku>
+      <s:grams>5933</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914442784981</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">719.88</s:price>
+      <s:sku>euro-Holle-Goat-Dutch-Stage1-12Pack</s:sku>
+      <s:grams>11866</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7914426269909</id>
+    <published>2022-11-07T11:29:03-06:00</published>
+    <updated>2022-11-07T11:29:03-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/holle-goat-stage-3-organic-baby-formula"/>
+    <title>Holle Goat Stage 3 (400g) Organic Toddler Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>Holle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/holle-goat-stage-3-400g-organic-toddler-formula-764161.jpg?v=1684167479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Holle<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            33.99 - 371.88
+            <a href="https://themilkybox.com/products/holle-goat-stage-3-organic-baby-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Whole organic goat’s milk</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Palm Oil and Coconut Oil Free </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Fish Oil Free DHA</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10+ Months</s:tag>
+    <s:tag>Allergies</s:tag>
+    <s:tag>Gassiness</s:tag>
+    <s:tag>Goat Milk</s:tag>
+    <s:tag>Holle</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Sensitive</s:tag>
+    <s:tag>Stage 3</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914426269909</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>europa-Holle-Goat-Stage3-Single</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914426269909</id>
+      <title>8 Pack</title>
+      <s:price currency="USD">263.92</s:price>
+      <s:sku>neder-Holle-Goat-Stage3-8Pack</s:sku>
+      <s:grams>4110</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914426269909</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">371.88</s:price>
+      <s:sku>neder-Holle-Goat-Stage3-12Pack</s:sku>
+      <s:grams>8219</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7914417291477</id>
+    <published>2022-11-07T11:29:02-06:00</published>
+    <updated>2022-11-07T11:29:02-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/holle-goat-stage-2-organic-baby-formula"/>
+    <title>Holle Goat Stage 2 (400g) Organic Baby Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>Holle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/holle-goat-stage-2-400g-organic-baby-formula-744062.jpg?v=1684167478"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Holle<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            33.99 - 371.88
+            <a href="https://themilkybox.com/products/holle-goat-stage-2-organic-baby-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">DHA 1 (omega-3) from algae oil</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">A2 goat’s milk protein</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Palm Oil Free </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6+ Months</s:tag>
+    <s:tag>6-10 months</s:tag>
+    <s:tag>Allergies</s:tag>
+    <s:tag>Gassiness</s:tag>
+    <s:tag>Goat Milk</s:tag>
+    <s:tag>Holle</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Stage2</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914417291477</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>europa-Holle-Goat-Stage2-Single</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914417291477</id>
+      <title>8 Pack</title>
+      <s:price currency="USD">263.92</s:price>
+      <s:sku>neder-Holle-Goat-Stage2-8Pack</s:sku>
+      <s:grams>4110</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914417291477</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">371.88</s:price>
+      <s:sku>neder-Holle-Goat-Stage2-12Pack</s:sku>
+      <s:grams>8219</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7914368893141</id>
+    <published>2022-11-07T11:29:00-06:00</published>
+    <updated>2022-11-07T11:29:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/hipp-dutch-goat-milk-stage-3"/>
+    <title>HiPP Dutch Goat Milk Stage 3 (400g) Baby Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>HiPP</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/hipp-dutch-goat-milk-stage-3-400g-baby-formula-539057.jpg?v=1684167452"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HiPP<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            39.99 - 443.88
+            <a href="https://themilkybox.com/products/hipp-dutch-goat-milk-stage-3">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">100% Organic A2 Toddler Milk</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Prebiotics for Digestive Support</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Sustainably Sourced</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12+ Months</s:tag>
+    <s:tag>Allergies</s:tag>
+    <s:tag>Dutch</s:tag>
+    <s:tag>Goat Milk</s:tag>
+    <s:tag>HiPP</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Stage 3</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914368893141</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>europa-HiPP-Dutch-Goat-Stage3-Single</s:sku>
+      <s:grams>467</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914368893141</id>
+      <title>8 Pack</title>
+      <s:price currency="USD">311.92</s:price>
+      <s:sku>neder-HiPP-Dutch-Goat-Stage3-8Pack</s:sku>
+      <s:grams>2504</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914368893141</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">443.88</s:price>
+      <s:sku>neder-HiPP-Dutch-Goat-Stage3-12Pack</s:sku>
+      <s:grams>5008</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7914368139477</id>
+    <published>2022-11-07T11:28:59-06:00</published>
+    <updated>2022-11-07T11:28:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/hipp-dutch-goat-milk-stage-2"/>
+    <title>HiPP Dutch Goat Milk Stage 2 (400g) Baby Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>HiPP</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/hipp-dutch-goat-milk-stage-2-400g-baby-formula-967846.jpg?v=1684167458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HiPP<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            39.99 - 443.88
+            <a href="https://themilkybox.com/products/hipp-dutch-goat-milk-stage-2">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">100% Organic A2 Milk</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Prebiotics for Healthy Gut Flora</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Naturally Gentle and Wholesome</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6-12 months</s:tag>
+    <s:tag>Allergies</s:tag>
+    <s:tag>Dutch</s:tag>
+    <s:tag>Goat Milk</s:tag>
+    <s:tag>HiPP</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Stage 2</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914368139477</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>europa-HiPP-Dutch-Goat-Stage2-Single</s:sku>
+      <s:grams>467</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914368139477</id>
+      <title>8 Pack</title>
+      <s:price currency="USD">311.92</s:price>
+      <s:sku>neder-HiPP-Dutch-Goat-Stage2-8Pack</s:sku>
+      <s:grams>2504</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914368139477</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">443.88</s:price>
+      <s:sku>neder-HiPP-Dutch-Goat-Stage2-12Pack</s:sku>
+      <s:grams>5008</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7914366599381</id>
+    <published>2022-11-07T11:28:58-06:00</published>
+    <updated>2022-11-07T11:28:58-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/hipp-dutch-goat-milk-stage-1"/>
+    <title>HiPP Dutch Goat Milk Stage 1 (400g) Baby Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>HiPP</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/hipp-dutch-goat-milk-stage-1-400g-baby-formula-452707.jpg?v=1684167450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HiPP<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            39.99 - 443.88
+            <a href="https://themilkybox.com/products/hipp-dutch-goat-milk-stage-1">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">100% Organic Formula</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">A2 Milk </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">DHA &amp; Omega 3 for Cognitive Development </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-6 months</s:tag>
+    <s:tag>Dutch</s:tag>
+    <s:tag>Goat Milk</s:tag>
+    <s:tag>HiPP</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Stage 1</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914366599381</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>europa-HiPP-Dutch-Goat-Stage1-Single</s:sku>
+      <s:grams>467</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914366599381</id>
+      <title>8 Pack</title>
+      <s:price currency="USD">311.92</s:price>
+      <s:sku>neder-HiPP-Dutch-Goat-Stage1-8Pack</s:sku>
+      <s:grams>2504</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914366599381</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">443.88</s:price>
+      <s:sku>neder-HiPP-Dutch-Goat-Stage1-12Pack</s:sku>
+      <s:grams>5008</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7914400645333</id>
+    <published>2022-11-03T12:56:07-05:00</published>
+    <updated>2022-11-03T12:56:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/holle-goat-milk-stage-1-organic-baby-formula"/>
+    <title>Holle Goat Stage 1 (400g) Organic Baby Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>Holle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/holle-goat-stage-1-400g-organic-baby-formula-699386.jpg?v=1684167477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Holle<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            33.99 - 371.88
+            <a href="https://themilkybox.com/products/holle-goat-milk-stage-1-organic-baby-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">DHA (omega-3) from algae oil</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Palm oil Free</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Organic A2 goat’s milk protein</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-6 months</s:tag>
+    <s:tag>Goat Milk</s:tag>
+    <s:tag>Holle</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Sensitive</s:tag>
+    <s:tag>Stage 1</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914400645333</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>europa-Holle-Goat-Stage1-Single</s:sku>
+      <s:grams>467</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914400645333</id>
+      <title>8 Pack</title>
+      <s:price currency="USD">263.92</s:price>
+      <s:sku>neder-Holle-Goat-Stage1-8Pack</s:sku>
+      <s:grams>2504</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914400645333</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">371.88</s:price>
+      <s:sku>neder-Holle-Goat-Stage1-12Pack</s:sku>
+      <s:grams>5008</s:grams>
+    </s:variant>
+  </entry>
+</feed>

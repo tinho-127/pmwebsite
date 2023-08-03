@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://themilkybox.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://themilkybox.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://themilkybox.com/collections/kabrita-formula.atom"/>
+  <title>The Milky Box</title>
+  <updated>2022-11-07T11:29:18-06:00</updated>
+  <author>
+    <name>The Milky Box</name>
+  </author>
+  <entry>
+    <id>https://themilkybox.com/products/7915916820693</id>
+    <published>2022-11-07T11:29:18-06:00</published>
+    <updated>2022-11-07T11:29:18-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/kabrita-goat-stage-2-baby-formula"/>
+    <title>Kabrita Goat Stage 2 (800g) Baby Formula</title>
+    <s:type>Formula</s:type>
+    <s:vendor>Kabrita</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/kabrita-goat-stage-2-800g-baby-formula-407445.jpg?v=1684167477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kabrita<br>
+        <strong>Type: </strong>Formula<br>
+        <strong>Price: </strong>
+            62.99 - 719.88
+            <a href="https://themilkybox.com/products/kabrita-goat-stage-2-baby-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Dutch A2 Goat Milk</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Prebiotic GOS Fiber</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Palm Oil Free</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6+ Months</s:tag>
+    <s:tag>6-12 months</s:tag>
+    <s:tag>Formula</s:tag>
+    <s:tag>Goat Milk</s:tag>
+    <s:tag>Kabrita</s:tag>
+    <s:tag>Sensitive</s:tag>
+    <s:tag>Stage 2</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915916820693</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>europa-Kabrita-Goat-Stage2-Single</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915916820693</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">371.94</s:price>
+      <s:sku>euro-Kabrita-Goat-Stage2-6Pack</s:sku>
+      <s:grams>5933</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915916820693</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">719.88</s:price>
+      <s:sku>euro-Kabrita-Goat-Stage2-12Pack</s:sku>
+      <s:grams>11866</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7915882610901</id>
+    <published>2022-11-07T11:29:17-06:00</published>
+    <updated>2022-11-07T11:29:17-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/kabrita-goat-stage-3-baby-formula"/>
+    <title>Kabrita Goat Stage 3 (800g) Toddler Formula</title>
+    <s:type>Formula</s:type>
+    <s:vendor>Kabrita</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/kabrita-goat-stage-3-800g-toddler-formula-755226.jpg?v=1684167489"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kabrita<br>
+        <strong>Type: </strong>Formula<br>
+        <strong>Price: </strong>
+            62.99 - 719.88
+            <a href="https://themilkybox.com/products/kabrita-goat-stage-3-baby-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Natural A2 goat’s milk</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">DHA and ARA </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">22 Vitamins and Minerals</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Formula</s:tag>
+    <s:tag>Goat Milk</s:tag>
+    <s:tag>Kabrita</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Sensitive</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915882610901</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>europa-Kabrita-Goat-Stage3-Single</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915882610901</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">371.94</s:price>
+      <s:sku>euro-Kabrita-Goat-Stage3-6Pack</s:sku>
+      <s:grams>5933</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915882610901</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">719.88</s:price>
+      <s:sku>euro-Kabrita-Goat-Stage3-12Pack</s:sku>
+      <s:grams>11866</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7915879432405</id>
+    <published>2022-11-07T11:29:17-06:00</published>
+    <updated>2022-11-07T11:29:17-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/kabrita-goat-stage-1-baby-formula"/>
+    <title>Kabrita Goat Stage 1  (800g) Baby Formula</title>
+    <s:type>Formula</s:type>
+    <s:vendor>Kabrita</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/kabrita-goat-stage-1-800g-baby-formula-734380.jpg?v=1684167483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kabrita<br>
+        <strong>Type: </strong>Formula<br>
+        <strong>Price: </strong>
+            62.99 - 719.88
+            <a href="https://themilkybox.com/products/kabrita-goat-stage-1-baby-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">A2 Goat Milk</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">22 Vitamins &amp; Minerals</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">GOS Prebiotics</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-6 months</s:tag>
+    <s:tag>Formula</s:tag>
+    <s:tag>Goat Milk</s:tag>
+    <s:tag>Kabrita</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Sensitive</s:tag>
+    <s:tag>Stage 1</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915879432405</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>europa-Kabrita-Goat-Stage1-Single</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915879432405</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">371.94</s:price>
+      <s:sku>euro-Kabrita-Goat-Stage1-6Pack</s:sku>
+      <s:grams>5933</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915879432405</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">719.88</s:price>
+      <s:sku>euro-Kabrita-Goat-Stage1-12Pack</s:sku>
+      <s:grams>11866</s:grams>
+    </s:variant>
+  </entry>
+</feed>
