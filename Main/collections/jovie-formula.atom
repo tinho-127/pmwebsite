@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://themilkybox.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://themilkybox.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://themilkybox.com/collections/jovie-formula.atom"/>
+  <title>The Milky Box</title>
+  <updated>2022-11-07T11:29:16-06:00</updated>
+  <author>
+    <name>The Milky Box</name>
+  </author>
+  <entry>
+    <id>https://themilkybox.com/products/7915873337557</id>
+    <published>2022-11-07T11:29:16-06:00</published>
+    <updated>2022-11-07T11:29:16-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/jovie-goat-stage-3-organic-baby-formula"/>
+    <title>Jovie Goat Stage 3 (800g) Organic Toddler Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>Jovie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/jovie-goat-stage-3-800g-organic-toddler-formula-233334.jpg?v=1684167479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jovie<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            62.99 - 719.88
+            <a href="https://themilkybox.com/products/jovie-goat-stage-3-organic-baby-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Organic &amp; Pure</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Full Cream Goat Milk as the No 1 Ingredient</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Without Palm oil or Soy</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10+ Months</s:tag>
+    <s:tag>Allergies</s:tag>
+    <s:tag>Gassiness</s:tag>
+    <s:tag>Goat Milk</s:tag>
+    <s:tag>Jovie</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Sensitive</s:tag>
+    <s:tag>Stage 3</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915873337557</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>europa-Jovie-Goat-Stage3-Single</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915873337557</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">371.94</s:price>
+      <s:sku>euro-Jovie-Goat-Stage3-6Pack</s:sku>
+      <s:grams>5933</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915873337557</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">719.88</s:price>
+      <s:sku>euro-Jovie-Goat-Stage3-12pack</s:sku>
+      <s:grams>11866</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7915871961301</id>
+    <published>2022-11-07T11:29:16-06:00</published>
+    <updated>2022-11-07T11:29:16-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/jovie-goat-stage-2-organic-baby-formula"/>
+    <title>Jovie Goat Stage 2 (800g) Organic Baby Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>Jovie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/jovie-goat-stage-2-800g-organic-baby-formula-272527.jpg?v=1684167479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jovie<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            62.99 - 719.88
+            <a href="https://themilkybox.com/products/jovie-goat-stage-2-organic-baby-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">100% Organic Formula</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Full Cream Goat Milk </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Organic Prebiotic </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6+ Months</s:tag>
+    <s:tag>6-10 months</s:tag>
+    <s:tag>Allergies</s:tag>
+    <s:tag>Gassiness</s:tag>
+    <s:tag>Goat Milk</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Stage2</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915871961301</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>europa-Jovie-Goat-Stage2-Single</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915871961301</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">371.94</s:price>
+      <s:sku>euro-Jovie-Goat-Stage2-6Pack</s:sku>
+      <s:grams>5933</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915871961301</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">719.88</s:price>
+      <s:sku>euro-Jovie-Goat-Stage2-12pack</s:sku>
+      <s:grams>11866</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7915869339861</id>
+    <published>2022-11-03T11:22:19-05:00</published>
+    <updated>2022-11-03T11:22:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/jovie-goat-stage-1-organic-baby-formula"/>
+    <title>Jovie Goat Stage 1 (800g) Organic Baby Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>Jovie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/jovie-goat-stage-1-800g-organic-baby-formula-670411.jpg?v=1684167477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jovie<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            62.99 - 719.88
+            <a href="https://themilkybox.com/products/jovie-goat-stage-1-organic-baby-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">100% Organic Formula</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">No Palm Oil and No Coconut Oil </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Full Cream Goat Milk</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-6 months</s:tag>
+    <s:tag>Goat Milk</s:tag>
+    <s:tag>Jovie</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Sensitive</s:tag>
+    <s:tag>Stage 1</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915869339861</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>europa-Jovie-Goat-Stage1-Single</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915869339861</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">371.94</s:price>
+      <s:sku>euro-Jovie-Goat-Stage1-6Pack</s:sku>
+      <s:grams>5933</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915869339861</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">719.88</s:price>
+      <s:sku>euro-Jovie-Goat-Stage1-12pack</s:sku>
+      <s:grams>11866</s:grams>
+    </s:variant>
+  </entry>
+</feed>

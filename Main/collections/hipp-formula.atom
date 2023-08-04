@@ -1,0 +1,1551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://themilkybox.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://themilkybox.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://themilkybox.com/collections/hipp-formula.atom"/>
+  <title>The Milky Box</title>
+  <updated>2023-05-23T12:13:21-05:00</updated>
+  <author>
+    <name>The Milky Box</name>
+  </author>
+  <entry>
+    <id>https://themilkybox.com/products/8509918511439</id>
+    <published>2023-05-23T12:13:21-05:00</published>
+    <updated>2023-05-23T12:13:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/hipp-hydrolyzed-ha-dutch-stage-2"/>
+    <title>HiPP Hydrolyzed (HA) Dutch Stage 2 (800g) Baby Formula</title>
+    <s:type>Formula</s:type>
+    <s:vendor>HiPP</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/hipp-hydrolyzed-ha-dutch-stage-2-800g-baby-formula-735418.jpg?v=1685319623"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HiPP<br>
+        <strong>Type: </strong>Formula<br>
+        <strong>Price: </strong>
+            62.99 - 719.88
+            <a href="https://themilkybox.com/products/hipp-hydrolyzed-ha-dutch-stage-2">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6-12 months</s:tag>
+    <s:tag>Allergies</s:tag>
+    <s:tag>cow-based</s:tag>
+    <s:tag>Dutch</s:tag>
+    <s:tag>Formula</s:tag>
+    <s:tag>Gassiness</s:tag>
+    <s:tag>HiPP</s:tag>
+    <s:tag>Hydrolyzed</s:tag>
+    <s:tag>Sensitive</s:tag>
+    <s:tag>Stage 2</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/8509918511439</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>europa-HiPP-Dutch-HA-Stage2-Single</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/8509918511439</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">371.94</s:price>
+      <s:sku>neder-HiPP-Dutch-HA-Stage2-6Pack</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/8509918511439</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">719.88</s:price>
+      <s:sku>neder-HiPP-Dutch-HA-Stage2-12Pack</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/8509918609743</id>
+    <published>2023-05-23T12:13:17-05:00</published>
+    <updated>2023-05-23T12:13:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/hipp-hydrolyzed-ha-dutch-stage-1"/>
+    <title>HiPP Hydrolyzed (HA) Dutch Stage 1 (800g) Baby Formula</title>
+    <s:type>Formula</s:type>
+    <s:vendor>HiPP</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/hipp-hydrolyzed-ha-dutch-stage-1-800g-baby-formula-417378.jpg?v=1685319623"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HiPP<br>
+        <strong>Type: </strong>Formula<br>
+        <strong>Price: </strong>
+            62.99 - 719.88
+            <a href="https://themilkybox.com/products/hipp-hydrolyzed-ha-dutch-stage-1">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-6 months</s:tag>
+    <s:tag>Allergies</s:tag>
+    <s:tag>cow-based</s:tag>
+    <s:tag>Dutch</s:tag>
+    <s:tag>Formula</s:tag>
+    <s:tag>Gassiness</s:tag>
+    <s:tag>HiPP</s:tag>
+    <s:tag>Hydrolyzed</s:tag>
+    <s:tag>Sensitive</s:tag>
+    <s:tag>Stage 1</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/8509918609743</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>europa-HiPP-Dutch-HA-Stage1-Single</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/8509918609743</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">371.94</s:price>
+      <s:sku>neder-HiPP-Dutch-HA-Stage1-6Pack</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/8509918609743</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">719.88</s:price>
+      <s:sku>neder-HiPP-Dutch-HA-Stage1-12Pack</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7980392972501</id>
+    <published>2023-04-21T14:58:32-05:00</published>
+    <updated>2023-04-21T14:58:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/hipp-dutch-bio-stage-4-organic-toddler-formula"/>
+    <title>HiPP Dutch Stage 4 (800g) Organic Toddler Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>HiPP</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/hipp-dutch-stage-4-organic-toddler-formula-886237.jpg?v=1684167452"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HiPP<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            47.99 - 539.88
+            <a href="https://themilkybox.com/products/hipp-dutch-bio-stage-4-organic-toddler-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul data-mce-fragment="1">
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">100% Organic Toddler Milk</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Contains Prebiotics &amp; Probiotic </span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Does not Contain Starch</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12+ Months</s:tag>
+    <s:tag>Cow</s:tag>
+    <s:tag>Dutch</s:tag>
+    <s:tag>HiPP</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Stage 4</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7980392972501</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>europa-HiPP-Dutch-Stage4-Single</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7980392972501</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">281.94</s:price>
+      <s:sku>neder-HiPP-Dutch-Stage4-6Pack</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7980392972501</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">539.88</s:price>
+      <s:sku>neder-HiPP-Dutch-Stage4-12Pack</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/8358117769551</id>
+    <published>2023-03-31T12:20:38-05:00</published>
+    <updated>2023-03-31T12:20:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/hipp-anti-reflux-uk-baby-formula"/>
+    <title>HiPP UK Anti-Reflux (800g) Baby Formula</title>
+    <s:type>Formula</s:type>
+    <s:vendor>HiPP</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/hipp-uk-anti-reflux-800g-baby-formula-172516.jpg?v=1684167460"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HiPP<br>
+        <strong>Type: </strong>Formula<br>
+        <strong>Price: </strong>
+            47.99 - 539.88
+            <a href="https://themilkybox.com/products/hipp-anti-reflux-uk-baby-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Organic Locust Bean Gum as a Natural Thickener</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">No Maltodextrin </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Omega-3 and Omega-6 DHA and ARA</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-12 months</s:tag>
+    <s:tag>Acid Reflux</s:tag>
+    <s:tag>Cow</s:tag>
+    <s:tag>Formula</s:tag>
+    <s:tag>HiPP</s:tag>
+    <s:tag>Hydrolyzed</s:tag>
+    <s:tag>Hypoallergenic</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>UK</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/8358117769551</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>briton-HiPP-UK-Anti-Reflux-Single</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/8358117769551</id>
+      <title>8 Pack</title>
+      <s:price currency="USD">375.92</s:price>
+      <s:sku>briton-HiPP-UK-Anti-Reflux-8pack</s:sku>
+      <s:grams>3456</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/8358117769551</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">539.88</s:price>
+      <s:sku>briton-HiPP-UK-Anti-Reflux-12pack</s:sku>
+      <s:grams>6913</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/8358157582671</id>
+    <published>2023-03-31T12:06:25-05:00</published>
+    <updated>2023-03-31T12:06:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/hipp-comfort-uk-infant-formula"/>
+    <title>HiPP UK Comfort (800g) Infant Formula</title>
+    <s:type>Formula</s:type>
+    <s:vendor>HiPP</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/hipp-uk-comfort-800g-infant-formula-168006.jpg?v=1684167461"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HiPP<br>
+        <strong>Type: </strong>Formula<br>
+        <strong>Price: </strong>
+            47.99 - 539.88
+            <a href="https://themilkybox.com/products/hipp-comfort-uk-infant-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Hydrolyzed Protein </span></li>
+<li style="font-weight: 400;">Reduced Lactose Content<span style="font-size: 1.4em;"> </span>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">DHA &amp; Omega 3 for Cognitive Development </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-12 months</s:tag>
+    <s:tag>Colic</s:tag>
+    <s:tag>Cow</s:tag>
+    <s:tag>Formula</s:tag>
+    <s:tag>Gassiness</s:tag>
+    <s:tag>HiPP</s:tag>
+    <s:tag>Sensitive</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/8358157582671</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>briton-HiPP-UK-Comfort-Single</s:sku>
+      <s:grams>612</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/8358157582671</id>
+      <title>8 Pack</title>
+      <s:price currency="USD">375.92</s:price>
+      <s:sku>briton-HiPP-UK-Comfort-8pack</s:sku>
+      <s:grams>3456</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/8358157582671</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">539.88</s:price>
+      <s:sku>briton-HiPP-UK-Comfort-12pack</s:sku>
+      <s:grams>6913</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7914368893141</id>
+    <published>2022-11-07T11:29:00-06:00</published>
+    <updated>2022-11-07T11:29:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/hipp-dutch-goat-milk-stage-3"/>
+    <title>HiPP Dutch Goat Milk Stage 3 (400g) Baby Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>HiPP</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/hipp-dutch-goat-milk-stage-3-400g-baby-formula-539057.jpg?v=1684167452"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HiPP<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            39.99 - 443.88
+            <a href="https://themilkybox.com/products/hipp-dutch-goat-milk-stage-3">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">100% Organic A2 Toddler Milk</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Prebiotics for Digestive Support</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Sustainably Sourced</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12+ Months</s:tag>
+    <s:tag>Allergies</s:tag>
+    <s:tag>Dutch</s:tag>
+    <s:tag>Goat Milk</s:tag>
+    <s:tag>HiPP</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Stage 3</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914368893141</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>europa-HiPP-Dutch-Goat-Stage3-Single</s:sku>
+      <s:grams>467</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914368893141</id>
+      <title>8 Pack</title>
+      <s:price currency="USD">311.92</s:price>
+      <s:sku>neder-HiPP-Dutch-Goat-Stage3-8Pack</s:sku>
+      <s:grams>2504</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914368893141</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">443.88</s:price>
+      <s:sku>neder-HiPP-Dutch-Goat-Stage3-12Pack</s:sku>
+      <s:grams>5008</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7914368139477</id>
+    <published>2022-11-07T11:28:59-06:00</published>
+    <updated>2022-11-07T11:28:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/hipp-dutch-goat-milk-stage-2"/>
+    <title>HiPP Dutch Goat Milk Stage 2 (400g) Baby Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>HiPP</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/hipp-dutch-goat-milk-stage-2-400g-baby-formula-967846.jpg?v=1684167458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HiPP<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            39.99 - 443.88
+            <a href="https://themilkybox.com/products/hipp-dutch-goat-milk-stage-2">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">100% Organic A2 Milk</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Prebiotics for Healthy Gut Flora</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Naturally Gentle and Wholesome</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6-12 months</s:tag>
+    <s:tag>Allergies</s:tag>
+    <s:tag>Dutch</s:tag>
+    <s:tag>Goat Milk</s:tag>
+    <s:tag>HiPP</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Stage 2</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914368139477</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>europa-HiPP-Dutch-Goat-Stage2-Single</s:sku>
+      <s:grams>467</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914368139477</id>
+      <title>8 Pack</title>
+      <s:price currency="USD">311.92</s:price>
+      <s:sku>neder-HiPP-Dutch-Goat-Stage2-8Pack</s:sku>
+      <s:grams>2504</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914368139477</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">443.88</s:price>
+      <s:sku>neder-HiPP-Dutch-Goat-Stage2-12Pack</s:sku>
+      <s:grams>5008</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7914366599381</id>
+    <published>2022-11-07T11:28:58-06:00</published>
+    <updated>2022-11-07T11:28:58-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/hipp-dutch-goat-milk-stage-1"/>
+    <title>HiPP Dutch Goat Milk Stage 1 (400g) Baby Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>HiPP</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/hipp-dutch-goat-milk-stage-1-400g-baby-formula-452707.jpg?v=1684167450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HiPP<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            39.99 - 443.88
+            <a href="https://themilkybox.com/products/hipp-dutch-goat-milk-stage-1">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">100% Organic Formula</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">A2 Milk </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">DHA &amp; Omega 3 for Cognitive Development </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-6 months</s:tag>
+    <s:tag>Dutch</s:tag>
+    <s:tag>Goat Milk</s:tag>
+    <s:tag>HiPP</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Stage 1</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914366599381</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>europa-HiPP-Dutch-Goat-Stage1-Single</s:sku>
+      <s:grams>467</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914366599381</id>
+      <title>8 Pack</title>
+      <s:price currency="USD">311.92</s:price>
+      <s:sku>neder-HiPP-Dutch-Goat-Stage1-8Pack</s:sku>
+      <s:grams>2504</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914366599381</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">443.88</s:price>
+      <s:sku>neder-HiPP-Dutch-Goat-Stage1-12Pack</s:sku>
+      <s:grams>5008</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7914365878485</id>
+    <published>2022-11-07T11:28:58-06:00</published>
+    <updated>2022-11-07T11:28:58-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/hipp-kindermilch-2-years"/>
+    <title>HiPP Kindermilch 2+ Years (600g) Toddler Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>HiPP</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/hipp-kindermilch-2-years-600g-toddler-formula-435857.jpg?v=1684167470"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HiPP<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            40.49 - 449.88
+            <a href="https://themilkybox.com/products/hipp-kindermilch-2-years">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">100% Organic </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Prebiotics &amp; Probiotics for Digestive Support</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Smooth Creamy Taste </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 year +</s:tag>
+    <s:tag>24+ Months</s:tag>
+    <s:tag>Cow</s:tag>
+    <s:tag>German</s:tag>
+    <s:tag>HiPP</s:tag>
+    <s:tag>Kindermilch</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Toddler</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914365878485</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">40.49</s:price>
+      <s:sku>europa-HiPP-Kindermilch-2+Years-Single</s:sku>
+      <s:grams>703</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914365878485</id>
+      <title>8 Pack</title>
+      <s:price currency="USD">319.12</s:price>
+      <s:sku>euro-HiPP-Kindermilch-2+Years-8Pack</s:sku>
+      <s:grams>4137</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914365878485</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">449.88</s:price>
+      <s:sku>euro-HiPP-Kindermilch-2+Years-12Pack</s:sku>
+      <s:grams>8274</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7914354213077</id>
+    <published>2022-11-07T11:28:57-06:00</published>
+    <updated>2022-11-07T11:28:57-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/hipp-kindermilch-1-years"/>
+    <title>HiPP Kindermilch 1+ Years (600g) Toddler Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>HiPP</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/hipp-kindermilch-1-years-600g-toddler-formula-133011.jpg?v=1684167467"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HiPP<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            40.49 - 449.88
+            <a href="https://themilkybox.com/products/hipp-kindermilch-1-years">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">100% Organic </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Prebiotics &amp; Probiotics for Digestive Support</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Smooth Creamy Taste </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1 year +</s:tag>
+    <s:tag>12+ Months</s:tag>
+    <s:tag>Cow</s:tag>
+    <s:tag>German</s:tag>
+    <s:tag>HiPP</s:tag>
+    <s:tag>Kindermilch</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Toddler</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914354213077</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">40.49</s:price>
+      <s:sku>europa-HiPP-Kindermilch-1+Years-Single</s:sku>
+      <s:grams>703</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914354213077</id>
+      <title>8 Pack</title>
+      <s:price currency="USD">319.12</s:price>
+      <s:sku>neder-HiPP-Kindermilch-1+Years-8Pack</s:sku>
+      <s:grams>4137</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914354213077</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">449.88</s:price>
+      <s:sku>neder-HiPP-Kindermilch-1+Years-12Pack</s:sku>
+      <s:grams>8274</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7914349887701</id>
+    <published>2022-11-07T11:28:57-06:00</published>
+    <updated>2022-11-07T11:28:57-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/hipp-german-stage-3"/>
+    <title>HiPP German Stage 3 (600g) Toddler Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>HiPP</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/hipp-german-stage-3-600g-toddler-formula-838278.jpg?v=1684167456"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HiPP<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            40.89 - 454.68
+            <a href="https://themilkybox.com/products/hipp-german-stage-3">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">100% Organic </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Prebiotics &amp; Probiotics for Digestive Support</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Smooth Creamy Taste </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10+ Months</s:tag>
+    <s:tag>Cow</s:tag>
+    <s:tag>German</s:tag>
+    <s:tag>HiPP</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Stage 3</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914349887701</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">40.89</s:price>
+      <s:sku>europa-HiPP-German-Stage3-Single</s:sku>
+      <s:grams>703</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914349887701</id>
+      <title>8 Pack</title>
+      <s:price currency="USD">319.12</s:price>
+      <s:sku>neder-HiPP-German-Stage3-8Pack</s:sku>
+      <s:grams>4137</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914349887701</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">454.68</s:price>
+      <s:sku>neder-HiPP-German-Stage3-12Pack</s:sku>
+      <s:grams>8274</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7914348609749</id>
+    <published>2022-11-07T11:28:57-06:00</published>
+    <updated>2022-11-07T11:28:57-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/hipp-german-stage-2-no-starch"/>
+    <title>HiPP German Stage 2 No Starch (600g) Infant Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>HiPP</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/hipp-german-stage-2-no-starch-600g-infant-formula-269689.jpg?v=1684167454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HiPP<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            40.89 - 454.68
+            <a href="https://themilkybox.com/products/hipp-german-stage-2-no-starch">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Organic Cow’s Milk</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Prebiotics &amp; Probiotics</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Starch Free</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6-12 months</s:tag>
+    <s:tag>Cow</s:tag>
+    <s:tag>German</s:tag>
+    <s:tag>HiPP</s:tag>
+    <s:tag>No Starch</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Stage 2</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914348609749</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">40.89</s:price>
+      <s:sku>europa-HiPP-German-Stage2-NoStarch-Single</s:sku>
+      <s:grams>885</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914348609749</id>
+      <title>8 Pack</title>
+      <s:price currency="USD">319.12</s:price>
+      <s:sku>neder-HiPP-German-Stage2-NoStarch-8Pack</s:sku>
+      <s:grams>4137</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914348609749</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">454.68</s:price>
+      <s:sku>neder-HiPP-German-Stage2-NoStarch-12Pack</s:sku>
+      <s:grams>6913</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7914347790549</id>
+    <published>2022-11-07T11:28:56-06:00</published>
+    <updated>2022-11-07T11:28:56-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/hipp-german-stage-2"/>
+    <title>HiPP German Stage 2 (600g) Combiotic Infant Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>HiPP</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/hipp-german-stage-2-600g-combiotic-infant-formula-469440.jpg?v=1685319636"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HiPP<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            40.89 - 454.68
+            <a href="https://themilkybox.com/products/hipp-german-stage-2">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Organic Cow’s Milk</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Prebiotics &amp; Probiotics</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Omega-3 fatty acid </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6-12 months</s:tag>
+    <s:tag>Cow</s:tag>
+    <s:tag>German</s:tag>
+    <s:tag>HiPP</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Stage 2</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914347790549</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">40.89</s:price>
+      <s:sku>europa-HiPP-German-Stage2-Single</s:sku>
+      <s:grams>612</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914347790549</id>
+      <title>8 Pack</title>
+      <s:price currency="USD">319.12</s:price>
+      <s:sku>neder-HiPP-German-Stage2-8Pack</s:sku>
+      <s:grams>612</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914347790549</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">454.68</s:price>
+      <s:sku>neder-HiPP-German-Stage2-12Pack</s:sku>
+      <s:grams>8274</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7914345038037</id>
+    <published>2022-11-07T11:28:55-06:00</published>
+    <updated>2022-11-07T11:28:55-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/hipp-german-pre"/>
+    <title>HiPP German Pre (600g) Combiotic Infant Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>HiPP</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/hipp-german-pre-600g-combiotic-infant-formula-804564.jpg?v=1684167453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HiPP<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            40.89 - 454.68
+            <a href="https://themilkybox.com/products/hipp-german-pre">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">100% Organic Formula</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">No Maltodextrin (starch)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">DHA &amp; Omega 3 for Brain Development </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-6 months</s:tag>
+    <s:tag>Cow</s:tag>
+    <s:tag>German</s:tag>
+    <s:tag>HiPP</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Stage PRE</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914345038037</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">40.89</s:price>
+      <s:sku>europa-HiPP-German-Pre-Single</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914345038037</id>
+      <title>8 Pack</title>
+      <s:price currency="USD">319.12</s:price>
+      <s:sku>neder-HiPP-German-Pre-8Pack</s:sku>
+      <s:grams>3456</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914345038037</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">454.68</s:price>
+      <s:sku>neder-HiPP-German-Pre-12Pack</s:sku>
+      <s:grams>6913</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7914343563477</id>
+    <published>2022-11-07T11:28:55-06:00</published>
+    <updated>2022-11-07T11:28:55-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/hipp-uk-stage-2"/>
+    <title>HiPP UK Stage 2 (800g) Organic Infant Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>HiPP</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/hipp-uk-stage-2-800g-organic-infant-formula-487449.jpg?v=1684167461"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HiPP<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            42.99 - 479.88
+            <a href="https://themilkybox.com/products/hipp-uk-stage-2">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Organic Cow’s Milk</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Prebiotics &amp; Probiotics</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Omega-3 Fatty Acid</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6-12 months</s:tag>
+    <s:tag>Cow</s:tag>
+    <s:tag>HiPP</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Stage 2</s:tag>
+    <s:tag>UK</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914343563477</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>briton-HiPP-UK-Stage2-Single</s:sku>
+      <s:grams>989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914343563477</id>
+      <title>8 Pack</title>
+      <s:price currency="USD">335.92</s:price>
+      <s:sku>briton-HiPP-UK-Stage2-8Pack</s:sku>
+      <s:grams>5307</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914343563477</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">479.88</s:price>
+      <s:sku>briton-HiPP-UK-Stage2-12Pack</s:sku>
+      <s:grams>10614</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7914342088917</id>
+    <published>2022-11-07T11:28:54-06:00</published>
+    <updated>2022-11-07T11:28:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/hipp-uk-stage-1"/>
+    <title>HiPP UK Stage 1 (800g) Organic Infant Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>HiPP</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/hipp-uk-stage-1-800g-organic-infant-formula-991864.jpg?v=1684167461"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HiPP<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            42.99 - 479.88
+            <a href="https://themilkybox.com/products/hipp-uk-stage-1">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">100% Organic Formula</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Prebiotics &amp; Probiotics  </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">DHA &amp; Omega 3 for Cognitive Development </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-6 months</s:tag>
+    <s:tag>Cow</s:tag>
+    <s:tag>HiPP</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Stage 1</s:tag>
+    <s:tag>UK</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914342088917</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>briton-HiPP-UK-Stage1-Single</s:sku>
+      <s:grams>989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914342088917</id>
+      <title>8 Pack</title>
+      <s:price currency="USD">335.92</s:price>
+      <s:sku>briton-HiPP-UK-Stage1-8Pack</s:sku>
+      <s:grams>5307</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914342088917</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">479.88</s:price>
+      <s:sku>briton-HiPP-UK-Stage1-12Pack</s:sku>
+      <s:grams>10614</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7913341255893</id>
+    <published>2022-11-07T11:28:51-06:00</published>
+    <updated>2022-11-07T11:28:51-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/hipp-ar-acid-reflux"/>
+    <title>HiPP AR (Anti-Reflux) (600g) Baby Formula</title>
+    <s:type>Formula</s:type>
+    <s:vendor>HiPP</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/hipp-ar-anti-reflux-600g-baby-formula-676320.jpg?v=1684167453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HiPP<br>
+        <strong>Type: </strong>Formula<br>
+        <strong>Price: </strong>
+            39.99 - 443.88
+            <a href="https://themilkybox.com/products/hipp-ar-acid-reflux">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Hydrolyzed Protein </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Prebiotics &amp; Probiotics  </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Organic Locust Bean Gum as a Natural Thickener</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-12 months</s:tag>
+    <s:tag>Acid Reflux</s:tag>
+    <s:tag>Cow</s:tag>
+    <s:tag>Formula</s:tag>
+    <s:tag>German</s:tag>
+    <s:tag>HiPP</s:tag>
+    <s:tag>Hypoallergenic</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7913341255893</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>europa-HiPP-AR-Single</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7913341255893</id>
+      <title>8 Pack</title>
+      <s:price currency="USD">311.92</s:price>
+      <s:sku>neder-HiPP-AR-8Pack</s:sku>
+      <s:grams>3456</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7913341255893</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">443.88</s:price>
+      <s:sku>neder-HiPP-AR-12pack</s:sku>
+      <s:grams>6913</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7913330671829</id>
+    <published>2022-11-07T11:28:51-06:00</published>
+    <updated>2022-11-07T11:28:51-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/hipp-comfort"/>
+    <title>HiPP Comfort (600g) Infant Formula</title>
+    <s:type>Formula</s:type>
+    <s:vendor>HiPP</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/hipp-comfort-600g-infant-formula-419013.jpg?v=1684167453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HiPP<br>
+        <strong>Type: </strong>Formula<br>
+        <strong>Price: </strong>
+            39.99 - 443.88
+            <a href="https://themilkybox.com/products/hipp-comfort">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Hydrolyzed Protein </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Prebiotics &amp; Probiotics  </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">DHA &amp; Omega 3 for Cognitive Development </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-12 months</s:tag>
+    <s:tag>Colic</s:tag>
+    <s:tag>Cow</s:tag>
+    <s:tag>Formula</s:tag>
+    <s:tag>Gassiness</s:tag>
+    <s:tag>German</s:tag>
+    <s:tag>HiPP</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7913330671829</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>europa-HiPP-Special-Comfort-Single</s:sku>
+      <s:grams>612</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7913330671829</id>
+      <title>8 Pack</title>
+      <s:price currency="USD">311.92</s:price>
+      <s:sku>neder-HiPP-Special-Comfort-8Pack</s:sku>
+      <s:grams>3456</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7913330671829</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">443.88</s:price>
+      <s:sku>neder-HiPP-Special-Comfort-12Pack</s:sku>
+      <s:grams>6913</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7913306554581</id>
+    <published>2022-11-07T11:28:50-06:00</published>
+    <updated>2022-11-07T11:28:50-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/hipp-ha-stage-2"/>
+    <title>HiPP HA (Hydrolyzed) Stage 2 (600g) Infant Formula</title>
+    <s:type>Formula</s:type>
+    <s:vendor>HiPP</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/hipp-ha-hydrolyzed-stage-2-600g-infant-formula-927327.jpg?v=1684167446"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HiPP<br>
+        <strong>Type: </strong>Formula<br>
+        <strong>Price: </strong>
+            42.99 - 479.88
+            <a href="https://themilkybox.com/products/hipp-ha-stage-2">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Hydrolyzed Protein </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Prebiotics &amp; Probiotics for Gut Health</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Long chain Omega 3 &amp; Omega 6</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6-12 months</s:tag>
+    <s:tag>Cow</s:tag>
+    <s:tag>Formula</s:tag>
+    <s:tag>German</s:tag>
+    <s:tag>HiPP</s:tag>
+    <s:tag>Hypoallergenic</s:tag>
+    <s:tag>Stage 2</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7913306554581</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>europa-HiPP-HA-Stage2-Single</s:sku>
+      <s:grams>689</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7913306554581</id>
+      <title>8 Pack</title>
+      <s:price currency="USD">335.92</s:price>
+      <s:sku>neder-HiPP-HA-Stage2-8Pack</s:sku>
+      <s:grams>4137</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7913306554581</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">479.88</s:price>
+      <s:sku>neder-HiPP-HA-Stage2-12Pack</s:sku>
+      <s:grams>8274</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7913299181781</id>
+    <published>2022-11-07T11:28:49-06:00</published>
+    <updated>2022-11-07T11:28:49-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/hipp-ha-stage-1"/>
+    <title>HiPP HA (Hydrolyzed) Stage 1 (600g) Infant Formula</title>
+    <s:type>Formula</s:type>
+    <s:vendor>HiPP</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/hipp-ha-hydrolyzed-stage-1-600g-infant-formula-601894.jpg?v=1684167455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HiPP<br>
+        <strong>Type: </strong>Formula<br>
+        <strong>Price: </strong>
+            42.99 - 479.88
+            <a href="https://themilkybox.com/products/hipp-ha-stage-1">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">100% Organic Formula</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Prebiotics &amp; Probiotics  </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">DHA &amp; Omega 3 for Cognitive Development </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-6 months</s:tag>
+    <s:tag>Cow</s:tag>
+    <s:tag>Formula</s:tag>
+    <s:tag>German</s:tag>
+    <s:tag>HiPP</s:tag>
+    <s:tag>Hypoallergenic</s:tag>
+    <s:tag>Stage 1</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7913299181781</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>europa-HiPP-HA-Stage1-Single</s:sku>
+      <s:grams>689</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7913299181781</id>
+      <title>8 Pack</title>
+      <s:price currency="USD">335.92</s:price>
+      <s:sku>neder-HiPP-HA-Stage1-8Pack</s:sku>
+      <s:grams>4137</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7913299181781</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">479.88</s:price>
+      <s:sku>neder-HiPP-HA-Stage1-12Pack</s:sku>
+      <s:grams>8274</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7913283551445</id>
+    <published>2022-11-07T11:28:49-06:00</published>
+    <updated>2022-11-07T11:28:49-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/hipp-ha-pre"/>
+    <title>HiPP HA (Hydrolyzed) (600g) PRE Infant Formula</title>
+    <s:type>Formula</s:type>
+    <s:vendor>HiPP</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/hipp-ha-hydrolyzed-600g-pre-infant-formula-516077.jpg?v=1684167456"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HiPP<br>
+        <strong>Type: </strong>Formula<br>
+        <strong>Price: </strong>
+            42.99 - 479.88
+            <a href="https://themilkybox.com/products/hipp-ha-pre">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Sensitive Formula</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">No Maltodextrin (starch)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">DHA for Brain Development </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-6 months</s:tag>
+    <s:tag>Cow</s:tag>
+    <s:tag>Formula</s:tag>
+    <s:tag>German</s:tag>
+    <s:tag>HiPP</s:tag>
+    <s:tag>Hypoallergenic</s:tag>
+    <s:tag>Stage PRE</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7913283551445</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>europa-HiPP-HA-PRE-Single</s:sku>
+      <s:grams>689</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7913283551445</id>
+      <title>8 Pack</title>
+      <s:price currency="USD">335.92</s:price>
+      <s:sku>neder-HiPP-HA-PRE-8Pack</s:sku>
+      <s:grams>4137</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7913283551445</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">479.88</s:price>
+      <s:sku>neder-HiPP-HA-PRE-12pack</s:sku>
+      <s:grams>8274</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7914346512597</id>
+    <published>2022-11-04T13:33:09-05:00</published>
+    <updated>2022-11-04T13:33:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/hipp-german-stage-1"/>
+    <title>HiPP German Stage 1 (600g) Combiotic Infant Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>HiPP</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/hipp-german-stage-1-600g-combiotic-infant-formula-795538.jpg?v=1684167453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HiPP<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            40.89 - 454.68
+            <a href="https://themilkybox.com/products/hipp-german-stage-1">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">100% Organic Formula</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Prebiotics &amp; Probiotics  </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">DHA &amp; Omega 3 for Cognitive Development </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-6 months</s:tag>
+    <s:tag>Cow</s:tag>
+    <s:tag>German</s:tag>
+    <s:tag>HiPP</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Stage 1</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914346512597</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">40.89</s:price>
+      <s:sku>europa-HiPP-German-Stage1-Single</s:sku>
+      <s:grams>703</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914346512597</id>
+      <title>8 Pack</title>
+      <s:price currency="USD">319.12</s:price>
+      <s:sku>neder-HiPP-German-Stage1-8Pack</s:sku>
+      <s:grams>4137</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914346512597</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">454.68</s:price>
+      <s:sku>neder-HiPP-German-Stage1-12Pack</s:sku>
+      <s:grams>8274</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7914343792853</id>
+    <published>2022-11-04T12:27:01-05:00</published>
+    <updated>2022-11-04T12:27:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/hipp-uk-stage-3"/>
+    <title>HiPP UK Stage 3 (600g) Organic Toddler Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>HiPP</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/hipp-uk-stage-3-600g-organic-toddler-formula-518207.jpg?v=1684167461"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HiPP<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            41.99 - 467.88
+            <a href="https://themilkybox.com/products/hipp-uk-stage-3">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">100% Organic </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Prebiotics &amp; Probiotics for Digestive Support</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Smooth Creamy Taste </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12+ Months</s:tag>
+    <s:tag>Cow</s:tag>
+    <s:tag>HiPP</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>UK</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914343792853</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>briton-HiPP-UK-Stage3-Single</s:sku>
+      <s:grams>989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914343792853</id>
+      <title>8 Pack</title>
+      <s:price currency="USD">327.92</s:price>
+      <s:sku>briton-HiPP-UK-Stage3-8Pack</s:sku>
+      <s:grams>5307</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914343792853</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">467.88</s:price>
+      <s:sku>briton-HiPP-UK-Stage3-12Pack</s:sku>
+      <s:grams>10614</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7914337599701</id>
+    <published>2022-11-01T14:32:14-05:00</published>
+    <updated>2022-11-01T14:32:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/hipp-dutch-stage-2"/>
+    <title>HiPP Dutch Stage 2 (800g) Organic Infant Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>HiPP</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/hipp-dutch-stage-2-800g-organic-infant-formula-871890.jpg?v=1684167453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HiPP<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            47.99 - 539.88
+            <a href="https://themilkybox.com/products/hipp-dutch-stage-2">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">100% Organic Formula</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Prebiotics &amp; Probiotics for Gut Health</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Has Organic Lactic Acid Bacteria</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6-12 months</s:tag>
+    <s:tag>Cow</s:tag>
+    <s:tag>Dutch</s:tag>
+    <s:tag>HiPP</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914337599701</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>europa-HiPP-Dutch-Stage2-Single</s:sku>
+      <s:grams>689</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914337599701</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">281.94</s:price>
+      <s:sku>neder-HiPP-Dutch-Stage2-6Pack</s:sku>
+      <s:grams>4137</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914337599701</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">539.88</s:price>
+      <s:sku>neder-HiPP-Dutch-Stage2-12Pack</s:sku>
+      <s:grams>8274</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7914339434709</id>
+    <published>2022-11-01T14:31:30-05:00</published>
+    <updated>2022-11-01T14:31:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/hipp-dutch-stage-3"/>
+    <title>HiPP Dutch Stage 3 (800g) Organic Toddler Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>HiPP</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/hipp-dutch-stage-3-800g-organic-toddler-formula-174270.jpg?v=1684167453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HiPP<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            47.99 - 539.88
+            <a href="https://themilkybox.com/products/hipp-dutch-stage-3">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">100% Organic Toddler Milk</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Prebiotics &amp; Probiotics for Digestive Support</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Sustainably Sourced</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12+ Months</s:tag>
+    <s:tag>Cow</s:tag>
+    <s:tag>Dutch</s:tag>
+    <s:tag>HiPP</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914339434709</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>europa-HiPP-Dutch-Stage3-Single</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914339434709</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">281.94</s:price>
+      <s:sku>euro-HiPP-Dutch-Stage3-6Pack</s:sku>
+      <s:grams>5933</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914339434709</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">539.88</s:price>
+      <s:sku>neder-HiPP-Dutch-Stage3-12Pack</s:sku>
+      <s:grams>11866</s:grams>
+    </s:variant>
+  </entry>
+</feed>

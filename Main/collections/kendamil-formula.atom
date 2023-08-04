@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://themilkybox.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://themilkybox.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://themilkybox.com/collections/kendamil-formula.atom"/>
+  <title>The Milky Box</title>
+  <updated>2022-11-07T11:29:33-06:00</updated>
+  <author>
+    <name>The Milky Box</name>
+  </author>
+  <entry>
+    <id>https://themilkybox.com/products/7915835523285</id>
+    <published>2022-11-07T11:29:33-06:00</published>
+    <updated>2022-11-07T11:29:33-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/kendamil-organic-stage-2-baby-formula"/>
+    <title>Kendamil Organic Stage 2 (800g) Baby Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>Kendamil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/kendamil-organic-stage-2-800g-baby-formula-827266.jpg?v=1684167493"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kendamil<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            53.99 - 611.88
+            <a href="https://themilkybox.com/products/kendamil-organic-stage-2-baby-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">100% Organic Formula</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Plant-Based DHA</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">No Palm Oil</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6+ Months</s:tag>
+    <s:tag>6-12 months</s:tag>
+    <s:tag>Cow</s:tag>
+    <s:tag>Kendamil</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Stage 2</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915835523285</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">53.99</s:price>
+      <s:sku>briton-Kendamil-Organic-Stage2-Single</s:sku>
+      <s:grams>989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915835523285</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">317.94</s:price>
+      <s:sku>briton-Kendamil-Organic-Stage2-6Pack</s:sku>
+      <s:grams>5933</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915835523285</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">611.88</s:price>
+      <s:sku>briton-Kendamil-Organic-Stage2-12Pack</s:sku>
+      <s:grams>11866</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7915833426133</id>
+    <published>2022-11-07T11:29:33-06:00</published>
+    <updated>2022-11-07T11:29:33-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/kendamil-organic-stage-1-baby-formula"/>
+    <title>Kendamil Organic Stage 1 (800g) Baby Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>Kendamil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/kendamil-organic-stage-1-800g-baby-formula-622915.jpg?v=1684167492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kendamil<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            45.99 - 515.88
+            <a href="https://themilkybox.com/products/kendamil-organic-stage-1-baby-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">100% Organic Cow's Milk</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Whole Milk Fats  </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Plant Based DHA</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-6 months</s:tag>
+    <s:tag>Cow</s:tag>
+    <s:tag>Kendamil</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Stage 1</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915833426133</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>briton-Kendamil-Organic-Stage1-Single</s:sku>
+      <s:grams>989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915833426133</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">269.94</s:price>
+      <s:sku>briton-Kendamil-Organic-Stage1-6Pack</s:sku>
+      <s:grams>5933</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915833426133</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">515.88</s:price>
+      <s:sku>briton-Kendamil-Organic-Stage1-12Pack</s:sku>
+      <s:grams>11866</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7915836276949</id>
+    <published>2022-11-07T11:29:32-06:00</published>
+    <updated>2022-11-07T11:29:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/kendamil-organic-stage-3-toddler-formula"/>
+    <title>Kendamil Organic Stage 3 (800g) Toddler Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>Kendamil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/kendamil-organic-stage-3-800g-toddler-formula-424325.jpg?v=1684892320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kendamil<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            53.99 - 611.88
+            <a href="https://themilkybox.com/products/kendamil-organic-stage-3-toddler-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">100% Organic Nutrition</span></li>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">Human Milk Oligosaccharides</span> <span style="font-weight: 400;">(HMOs)</span>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Plant-based DHA Cognitive Development </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12+ Months</s:tag>
+    <s:tag>Cow</s:tag>
+    <s:tag>cow-based</s:tag>
+    <s:tag>Kendamil</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Stage 3</s:tag>
+    <s:tag>Toddler</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915836276949</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">53.99</s:price>
+      <s:sku>briton-Kendamil-Organic-Stage3-Single</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915836276949</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">317.94</s:price>
+      <s:sku>briton-Kendamil-Organic-Stage3-6Pack</s:sku>
+      <s:grams>5933</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915836276949</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">611.88</s:price>
+      <s:sku>briton-Kendamil-Organic-Stage3-12Pack</s:sku>
+      <s:grams>11866</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7915841716437</id>
+    <published>2022-11-07T11:29:15-06:00</published>
+    <updated>2022-11-07T11:29:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/kendamil-goat-stage-3-organic-baby-formula"/>
+    <title>Kendamil Goat Stage 3 (800g) Toddler Formula</title>
+    <s:type>Formula</s:type>
+    <s:vendor>Kendamil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/kendamil-goat-stage-3-800g-toddler-formula-412724.jpg?v=1684167492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kendamil<br>
+        <strong>Type: </strong>Formula<br>
+        <strong>Price: </strong>
+            62.99 - 719.88
+            <a href="https://themilkybox.com/products/kendamil-goat-stage-3-organic-baby-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Red Tractor Certified Farming</span></li>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">Human Milk Oligosaccharides</span> <span style="font-weight: 400;">(HMOs)</span>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Plant-based DHA Cognitive Development</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10+ Months</s:tag>
+    <s:tag>Allergies</s:tag>
+    <s:tag>Formula</s:tag>
+    <s:tag>Gassiness</s:tag>
+    <s:tag>Goat Milk</s:tag>
+    <s:tag>Holle</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Sensitive</s:tag>
+    <s:tag>Stage 3</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915841716437</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>briton-Kendamil-Goat-Stage3-Single</s:sku>
+      <s:grams>989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915841716437</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">371.94</s:price>
+      <s:sku>briton-Kendamil-Goat-Stage3-6Pack</s:sku>
+      <s:grams>5933</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915841716437</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">719.88</s:price>
+      <s:sku>briton-Kendamil-Goat-Stage3-12Pack</s:sku>
+      <s:grams>11866</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7915841192149</id>
+    <published>2022-11-07T11:29:14-06:00</published>
+    <updated>2022-11-07T11:29:14-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/kendamil-goat-stage-2-organic-baby-formula"/>
+    <title>Kendamil Goat Stage 2 (800g) Baby Formula</title>
+    <s:type>Formula</s:type>
+    <s:vendor>Kendamil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/kendamil-goat-stage-2-800g-baby-formula-443647.jpg?v=1684167492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kendamil<br>
+        <strong>Type: </strong>Formula<br>
+        <strong>Price: </strong>
+            62.99 - 719.88
+            <a href="https://themilkybox.com/products/kendamil-goat-stage-2-organic-baby-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;">Red Tractor Certified Farming</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Plant-Based DHA</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">No Palm Oil</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6+ Months</s:tag>
+    <s:tag>6-10 months</s:tag>
+    <s:tag>Allergies</s:tag>
+    <s:tag>Formula</s:tag>
+    <s:tag>Gassiness</s:tag>
+    <s:tag>Goat Milk</s:tag>
+    <s:tag>Kendamil</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Stage2</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915841192149</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>briton-Kendamil-Goat-Stage2-Single</s:sku>
+      <s:grams>989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915841192149</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">371.94</s:price>
+      <s:sku>briton-Kendamil-Goat-Stage2-6Pack</s:sku>
+      <s:grams>5933</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915841192149</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">719.88</s:price>
+      <s:sku>briton-Kendamil-Goat-Stage2-12Pack</s:sku>
+      <s:grams>11866</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7915838308565</id>
+    <published>2022-11-07T11:29:14-06:00</published>
+    <updated>2022-11-07T11:29:14-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/kendamil-goat-stage-1-organic-baby-formula"/>
+    <title>Kendamil Goat Stage 1 (800g) Baby Formula</title>
+    <s:type>Formula</s:type>
+    <s:vendor>Kendamil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/kendamil-goat-stage-1-800g-baby-formula-121502.jpg?v=1684167492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kendamil<br>
+        <strong>Type: </strong>Formula<br>
+        <strong>Price: </strong>
+            62.99 - 719.88
+            <a href="https://themilkybox.com/products/kendamil-goat-stage-1-organic-baby-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;">Red Tractor Certified Farming</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Whole Milk Fats  </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Plant Based DHA</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-6 months</s:tag>
+    <s:tag>Formula</s:tag>
+    <s:tag>Goat Milk</s:tag>
+    <s:tag>Kendamil</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Sensitive</s:tag>
+    <s:tag>Stage 1</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915838308565</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>briton-Kendamil-Goat-Stage1-Single</s:sku>
+      <s:grams>989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915838308565</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">371.94</s:price>
+      <s:sku>briton-Kendamil-Goat-Stage1-6Pack</s:sku>
+      <s:grams>5933</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915838308565</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">719.88</s:price>
+      <s:sku>briton-Kendamil-Goat-Stage1-12Pack</s:sku>
+      <s:grams>6913</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7915832410325</id>
+    <published>2022-11-07T11:29:11-06:00</published>
+    <updated>2022-11-07T11:29:11-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/kendamil-classic-stage-3-toddler-formula"/>
+    <title>Kendamil Classic Stage 3 (800g) Toddler Formula</title>
+    <s:type>Formula</s:type>
+    <s:vendor>Kendamil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/kendamil-classic-stage-3-900g-toddler-formula-747343.jpg?v=1684167491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kendamil<br>
+        <strong>Type: </strong>Formula<br>
+        <strong>Price: </strong>
+            43.99 - 491.88
+            <a href="https://themilkybox.com/products/kendamil-classic-stage-3-toddler-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">100% British Made</span></li>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">Human Milk Oligosaccharides</span> <span style="font-weight: 400;">(HMOs)</span>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">No Fish Oil, No Palm Oil </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cow</s:tag>
+    <s:tag>cow-based</s:tag>
+    <s:tag>Formula</s:tag>
+    <s:tag>Kendamil</s:tag>
+    <s:tag>Stage 3</s:tag>
+    <s:tag>Toddler</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915832410325</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>briton-Kendamil-Classic-Stage3-Single</s:sku>
+      <s:grams>576</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915832410325</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">257.94</s:price>
+      <s:sku>briton-Kendamil-Classic-Stage3-6Pack</s:sku>
+      <s:grams>3456</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915832410325</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">491.88</s:price>
+      <s:sku>briton-Kendamil-Classic-Stage3-12Pack</s:sku>
+      <s:grams>6913</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7915830345941</id>
+    <published>2022-11-07T11:29:10-06:00</published>
+    <updated>2022-11-07T11:29:10-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/kendamil-classic-stage-2-baby-formula"/>
+    <title>Kendamil Classic Stage 2 (800g) Baby Formula</title>
+    <s:type>Formula</s:type>
+    <s:vendor>Kendamil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/kendamil-classic-stage-2-900g-baby-formula-374362.jpg?v=1684167491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kendamil<br>
+        <strong>Type: </strong>Formula<br>
+        <strong>Price: </strong>
+            43.99 - 491.88
+            <a href="https://themilkybox.com/products/kendamil-classic-stage-2-baby-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Whole Milk Lactose</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Plant-Based DHA</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">No Palm Oil</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12+ Months</s:tag>
+    <s:tag>6+ Months</s:tag>
+    <s:tag>6-10 months</s:tag>
+    <s:tag>Cow</s:tag>
+    <s:tag>cow-based</s:tag>
+    <s:tag>Formula</s:tag>
+    <s:tag>Stage2</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915830345941</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>briton-Kendamil-Classic-Stage2-Single</s:sku>
+      <s:grams>576</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915830345941</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">257.94</s:price>
+      <s:sku>briton-Kendamil-Classic-Stage2-6Pack</s:sku>
+      <s:grams>3456</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915830345941</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">491.88</s:price>
+      <s:sku>briton-Kendamil-Classic-Stage2-12Pack</s:sku>
+      <s:grams>6913</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7915827527893</id>
+    <published>2022-11-07T11:29:08-06:00</published>
+    <updated>2022-11-07T11:29:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/kendamil-classic-stage-1-baby-formula"/>
+    <title>Kendamil Classic Stage 1 (800g) Baby Formula</title>
+    <s:type>Formula</s:type>
+    <s:vendor>Kendamil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/kendamil-classic-stage-1-900g-baby-formula-314268.jpg?v=1684167490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kendamil<br>
+        <strong>Type: </strong>Formula<br>
+        <strong>Price: </strong>
+            37.99 - 419.88
+            <a href="https://themilkybox.com/products/kendamil-classic-stage-1-baby-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Trusted Nutrition </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Palm Oil Free </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Plant Based DHA</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-6 months</s:tag>
+    <s:tag>Cow</s:tag>
+    <s:tag>Formula</s:tag>
+    <s:tag>Kendamil</s:tag>
+    <s:tag>Stage 1</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915827527893</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">37.99</s:price>
+      <s:sku>briton-Kendamil-Classic-Stage1-Single</s:sku>
+      <s:grams>576</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915827527893</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">221.94</s:price>
+      <s:sku>briton-Kendamil-Classic-Stage1-6Pack</s:sku>
+      <s:grams>3456</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915827527893</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">419.88</s:price>
+      <s:sku>briton-Kendamil-Classic-Stage1-12Pack</s:sku>
+      <s:grams>6913</s:grams>
+    </s:variant>
+  </entry>
+</feed>

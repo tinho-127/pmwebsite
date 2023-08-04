@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://themilkybox.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://themilkybox.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://themilkybox.com/collections/lebenswert-formula.atom"/>
+  <title>The Milky Box</title>
+  <updated>2022-11-07T11:29:28-06:00</updated>
+  <author>
+    <name>The Milky Box</name>
+  </author>
+  <entry>
+    <id>https://themilkybox.com/products/7915901157589</id>
+    <published>2022-11-07T11:29:28-06:00</published>
+    <updated>2022-11-07T11:29:28-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/lebenswert-stage-2-organic-baby-milk-formula"/>
+    <title>Lebenswert Stage 2 (500g) Organic Baby Milk Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>Lebenswert</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/lebenswert-stage-2-500g-organic-baby-milk-formula-692178.jpg?v=1684167496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lebenswert<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            30.99 - 335.88
+            <a href="https://themilkybox.com/products/lebenswert-stage-2-organic-baby-milk-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Bioland Organic Certification</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Omega 3 for Brain Development </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Sustainably Sourced  </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6+ Months</s:tag>
+    <s:tag>6-12 months</s:tag>
+    <s:tag>Cow</s:tag>
+    <s:tag>Lebenswert</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Stage 2</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915901157589</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>europa-Lebenswert-Organic-Stage2-Single</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915901157589</id>
+      <title>8 Pack</title>
+      <s:price currency="USD">239.92</s:price>
+      <s:sku>neder-Lebenswert-Organic-Stage2-8Pack</s:sku>
+      <s:grams>3402</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915901157589</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">335.88</s:price>
+      <s:sku>neder-Lebenswert-Organic-Stage2-12Pack</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7915897585877</id>
+    <published>2022-11-07T11:29:28-06:00</published>
+    <updated>2022-11-07T11:29:28-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/lebenswert-stage-1-organic-baby-milk-formula"/>
+    <title>Lebenswert Stage 1 (500g) Organic Baby Milk Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>Lebenswert</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/lebenswert-stage-1-500g-organic-baby-milk-formula-502679.jpg?v=1684167496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lebenswert<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            30.99 - 335.88
+            <a href="https://themilkybox.com/products/lebenswert-stage-1-organic-baby-milk-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">100% Organic Formula</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Organic vegetable oils</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Omega 3 &amp; Omega 6 for Cognitive Development</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-6 months</s:tag>
+    <s:tag>Cow</s:tag>
+    <s:tag>Lebenswert</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Stage 1</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915897585877</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>europa-Lebenswert-Organic-Stage1-Single</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915897585877</id>
+      <title>8 Pack</title>
+      <s:price currency="USD">239.92</s:price>
+      <s:sku>neder-Lebenswert-Organic-Stage1-8Pack</s:sku>
+      <s:grams>3402</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915897585877</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">335.88</s:price>
+      <s:sku>neder-Lebenswert-Organic-Stage1-12Pack</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7915902763221</id>
+    <published>2022-11-07T11:29:27-06:00</published>
+    <updated>2022-11-07T11:29:27-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/lebenswert-stage-3-organic-toddler-formula"/>
+    <title>Lebenswert Stage 3 (475g) Organic Toddler Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>Lebenswert</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/lebenswert-stage-3-475g-organic-toddler-formula-640773.jpg?v=1684167497"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lebenswert<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            30.99 - 335.88
+            <a href="https://themilkybox.com/products/lebenswert-stage-3-organic-toddler-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">100% Organic Milk</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Vitamins A and C for an Immune System</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Iron-Fortified</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12+ Months</s:tag>
+    <s:tag>Cow</s:tag>
+    <s:tag>Lebenswert</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Stage 3</s:tag>
+    <s:tag>Toddler</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915902763221</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>europa-Lebenswert-Organic-Stage3-Single</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915902763221</id>
+      <title>8 Pack</title>
+      <s:price currency="USD">239.92</s:price>
+      <s:sku>neder-Lebenswert-Organic-Stage3-8Pack</s:sku>
+      <s:grams>3402</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915902763221</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">335.88</s:price>
+      <s:sku>neder-Lebenswert-Organic-Stage3-12Pack</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+</feed>
