@@ -1,0 +1,1538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://themilkybox.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://themilkybox.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://themilkybox.com/collections/holle-formula.atom"/>
+  <title>The Milky Box</title>
+  <updated>2023-05-23T14:07:26-05:00</updated>
+  <author>
+    <name>The Milky Box</name>
+  </author>
+  <entry>
+    <id>https://themilkybox.com/products/7990451372245</id>
+    <published>2023-05-23T14:07:26-05:00</published>
+    <updated>2023-05-23T14:07:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/holle-organic-rice-porridge"/>
+    <title>Holle Organic Rice Porridge 5+ Months (250g)</title>
+    <s:type>Porridge</s:type>
+    <s:vendor>Holle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/holle-organic-rice-porridge-5-months-250g-458147.jpg?v=1685319656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Holle<br>
+        <strong>Type: </strong>Porridge<br>
+        <strong>Price: </strong>
+            12.75 - 129.00
+            <a href="https://themilkybox.com/products/holle-organic-rice-porridge">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul data-mce-fragment="1">
+<li>For babies 5+ months</li>
+<li>EU organic</li>
+<li>Low in allergens</li>
+<li>Gluten, egg, and lactose-free</li>
+<li>No added sugar</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>porridge</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7990451372245</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">12.75</s:price>
+      <s:sku>europa-Holle-Organic-Rice-Porridge-Single</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7990451372245</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">70.50</s:price>
+      <s:sku>euro-Holle-Organic-Rice-Porridge-6Pack</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7990451372245</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>euro-Holle-Organic-Rice-Porridge-12Pack</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7990582870229</id>
+    <published>2023-05-23T14:07:19-05:00</published>
+    <updated>2023-05-23T14:07:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/holle-organic-oats-porridge"/>
+    <title>Holle Organic Oats Porridge 5+ Months (250g)</title>
+    <s:type>Porridge</s:type>
+    <s:vendor>Holle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/holle-organic-oats-porridge-5-months-250g-210718.jpg?v=1685319656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Holle<br>
+        <strong>Type: </strong>Porridge<br>
+        <strong>Price: </strong>
+            12.75 - 129.00
+            <a href="https://themilkybox.com/products/holle-organic-oats-porridge">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>For babies 5+ months</li>
+<li>EU &amp; Demeter</li>
+<li>Organic Egg and lactose-free</li>
+<li>No added sugar</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5+ months</s:tag>
+    <s:tag>egg free</s:tag>
+    <s:tag>gluten free</s:tag>
+    <s:tag>Holle</s:tag>
+    <s:tag>lactose free</s:tag>
+    <s:tag>no added sugar</s:tag>
+    <s:tag>Oats</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>porridge</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7990582870229</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">12.75</s:price>
+      <s:sku>europa-Holle-Organic-Oats-Porridge-Single</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7990582870229</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">70.50</s:price>
+      <s:sku>euro-Holle-Organic-Oats-Porridge-6Pack</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7990582870229</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>euro-Holle-Organic-Oats-Porridge-12Pack</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7990590931157</id>
+    <published>2023-05-23T14:07:07-05:00</published>
+    <updated>2023-05-23T14:07:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/holle-organic-milk-cereal-with-bananas"/>
+    <title>Holle Organic Milk Cereal with Bananas 6+ Months (250g)</title>
+    <s:type>Cereal</s:type>
+    <s:vendor>Holle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/holle-organic-milk-cereal-with-bananas-6-months-250g-668973.jpg?v=1685319656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Holle<br>
+        <strong>Type: </strong>Cereal<br>
+        <strong>Price: </strong>
+            12.75 - 129.00
+            <a href="https://themilkybox.com/products/holle-organic-milk-cereal-with-bananas">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul data-mce-fragment="1">
+<li>For babies 6+ months</li>
+<li>EU organic</li>
+<li>Egg-free</li>
+<li>No added sugar</li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Organic Milk</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6+ Months</s:tag>
+    <s:tag>Cereal</s:tag>
+    <s:tag>Cow</s:tag>
+    <s:tag>egg free</s:tag>
+    <s:tag>Holle</s:tag>
+    <s:tag>Milk Cereal</s:tag>
+    <s:tag>no added sugar</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7990590931157</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">12.75</s:price>
+      <s:sku>europa-Holle-Milk-Cereal-Bananas-Single</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7990590931157</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">70.50</s:price>
+      <s:sku>euro-Holle-Milk-Cereal-Bananas-6Pack</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7990590931157</id>
+      <title>12 Packs</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>euro-Holle-Milk-Cereal-Bananas-12Pack</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7990593028309</id>
+    <published>2023-05-23T14:06:56-05:00</published>
+    <updated>2023-05-23T14:06:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/holle-organic-fruit-porridge-banana-semolin"/>
+    <title>Holle Organic Fruit Porridge Banana-Semolin 6+ Months (250g)</title>
+    <s:type>Porridge</s:type>
+    <s:vendor>Holle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/holle-organic-fruit-porridge-banana-semolin-6-months-250g-176578.jpg?v=1685319656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Holle<br>
+        <strong>Type: </strong>Porridge<br>
+        <strong>Price: </strong>
+            12.75 - 129.00
+            <a href="https://themilkybox.com/products/holle-organic-fruit-porridge-banana-semolin">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul data-mce-fragment="1">
+<li>For babies 6+ months</li>
+<li>EU organic</li>
+<li>Egg and lactose-free</li>
+<li>No added sugar</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6+ Months</s:tag>
+    <s:tag>egg free</s:tag>
+    <s:tag>fruit porridge</s:tag>
+    <s:tag>gluten free</s:tag>
+    <s:tag>Holle</s:tag>
+    <s:tag>no sugar added</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>porridge</s:tag>
+    <s:tag>Semolin</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7990593028309</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">12.75</s:price>
+      <s:sku>Europa-Holle-Fruit-Banana-Semolin-Single</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7990593028309</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">70.50</s:price>
+      <s:sku>euro-Holle-Fruit-Banana-Semolin-6Pack</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7990593028309</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>euro-Holle-Fruit-Banana-Semolin-12Pack</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7990540927189</id>
+    <published>2023-05-23T14:06:50-05:00</published>
+    <updated>2023-05-23T14:06:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/holle-organic-baby-muesli-porridge"/>
+    <title>Holle Organic Baby Muesli Porridge 6+ Months (250g)</title>
+    <s:type>Porridge</s:type>
+    <s:vendor>Holle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/holle-organic-baby-muesli-porridge-6-months-250g-184842.jpg?v=1685319655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Holle<br>
+        <strong>Type: </strong>Porridge<br>
+        <strong>Price: </strong>
+            12.75 - 129.00
+            <a href="https://themilkybox.com/products/holle-organic-baby-muesli-porridge">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul data-mce-fragment="1">
+<li>For babies 6+ months</li>
+<li>EU and Demeter organic</li>
+<li>Egg and lactose-free</li>
+<li>No added sugar</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6+ Months</s:tag>
+    <s:tag>egg free</s:tag>
+    <s:tag>gluten free</s:tag>
+    <s:tag>Holle</s:tag>
+    <s:tag>lactose free</s:tag>
+    <s:tag>Muesli</s:tag>
+    <s:tag>no added sugar</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>porridge</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7990540927189</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">12.75</s:price>
+      <s:sku>europa-Holle-Muesli-Porridge-Single</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7990540927189</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">70.50</s:price>
+      <s:sku>euro-Holle-Muesli-Porridge-6Pack</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7990540927189</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>euro-Holle-Muesli-Porridge-12Pack</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7990420046037</id>
+    <published>2023-05-23T14:06:47-05:00</published>
+    <updated>2023-05-23T14:06:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/holle-organic-3-grain-porridge"/>
+    <title>Holle Organic 3-Grain Porridge 6+ Months (250g)</title>
+    <s:type>Porridge</s:type>
+    <s:vendor>Holle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/holle-organic-3-grain-porridge-6-months-250g-891835.jpg?v=1685319653"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Holle<br>
+        <strong>Type: </strong>Porridge<br>
+        <strong>Price: </strong>
+            12.75 - 129.00
+            <a href="https://themilkybox.com/products/holle-organic-3-grain-porridge">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul data-mce-fragment="1">
+<li>For babies 6+ months</li>
+<li>EU organic</li>
+<li>Low in allergens</li>
+<li>Gluten, egg, and lactose-free</li>
+<li>No added sugar</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3-grain</s:tag>
+    <s:tag>6+ Months</s:tag>
+    <s:tag>egg free</s:tag>
+    <s:tag>gluten free</s:tag>
+    <s:tag>Holle</s:tag>
+    <s:tag>lactose free</s:tag>
+    <s:tag>no sugar added</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>porridge</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7990420046037</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">12.75</s:price>
+      <s:sku>europa-Holle-3-Grain-Porridge-Single</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7990420046037</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">70.50</s:price>
+      <s:sku>euro-Holle-3-Grain-Porridge-6Pack</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7990420046037</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>euro-Holle-3-Grain-Porridge-12Pack</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7990598303957</id>
+    <published>2023-05-23T14:06:44-05:00</published>
+    <updated>2023-05-23T14:06:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/holle-organic-junior-muesli-multigrain-porridge-with-fruits"/>
+    <title>Holle Junior Multigrain Muesli with Fruit 10+ Months (250g)</title>
+    <s:type>Muesli</s:type>
+    <s:vendor>Holle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/holle-junior-multigrain-muesli-with-fruit-10-months-250g-473873.jpg?v=1685319653"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Holle<br>
+        <strong>Type: </strong>Muesli<br>
+        <strong>Price: </strong>
+            12.75 - 129.00
+            <a href="https://themilkybox.com/products/holle-organic-junior-muesli-multigrain-porridge-with-fruits">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul data-mce-fragment="1">
+<li>For babies 10+ months</li>
+<li>EU and Demeter organic</li>
+<li>Egg and lactose-free</li>
+<li>No added sugar</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10+ Months</s:tag>
+    <s:tag>egg free</s:tag>
+    <s:tag>fruit porridge</s:tag>
+    <s:tag>gluten free</s:tag>
+    <s:tag>Holle</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>lactose free</s:tag>
+    <s:tag>Muesli</s:tag>
+    <s:tag>no added sugar</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>porridge</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7990598303957</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">12.75</s:price>
+      <s:sku>europa-Holle-JR-Multigrain-Muesli-Fruit-Single</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7990598303957</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">70.50</s:price>
+      <s:sku>euro-Holle-JR-Multigrain-Muesli-Fruit-6Pack</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7990598303957</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>euro-Holle-JR-Multigrain-Muesli-Fruit-12Pack</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7990594535637</id>
+    <published>2023-05-23T14:06:03-05:00</published>
+    <updated>2023-05-23T14:06:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/holle-organic-junior-muesli-multigrain-porridge-with-cornflakes"/>
+    <title>Holle Junior Multigrain Muesli with Cornflakes Porridge 10+ Months (250g)</title>
+    <s:type>Porridge</s:type>
+    <s:vendor>Holle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/holle-junior-multigrain-muesli-with-cornflakes-porridge-10-months-250g-349981.jpg?v=1685319652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Holle<br>
+        <strong>Type: </strong>Porridge<br>
+        <strong>Price: </strong>
+            12.75 - 129.00
+            <a href="https://themilkybox.com/products/holle-organic-junior-muesli-multigrain-porridge-with-cornflakes">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul data-mce-fragment="1">
+<li>For babies 10+ months</li>
+<li>EU and Demeter organic</li>
+<li>Egg and lactose-free</li>
+<li>No added sugar</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10+ Months</s:tag>
+    <s:tag>egg free</s:tag>
+    <s:tag>gluten free</s:tag>
+    <s:tag>Holle</s:tag>
+    <s:tag>Junior</s:tag>
+    <s:tag>lactose free</s:tag>
+    <s:tag>Muesli</s:tag>
+    <s:tag>Multigrain</s:tag>
+    <s:tag>no added sugar</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>porridge</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7990594535637</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">12.75</s:price>
+      <s:sku>europa-Holle-JR-Multigrain-Muesli-Cornflakes-Single</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7990594535637</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">70.50</s:price>
+      <s:sku>euro-Holle-JR-Multigrain-Muesli-Cornflakes-6Pack</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7990594535637</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>euro-Holle-JR-Multigrain-Muesli-Cornflakes-12Pack</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7980395004117</id>
+    <published>2023-05-23T13:24:32-05:00</published>
+    <updated>2023-05-23T13:24:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/holle-goat-milk-stage-4-organic-todler-formula"/>
+    <title>Holle Goat Stage 4 (400g) Organic Toddler Milk Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>Holle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/holle-goat-stage-4-400g-organic-toddler-milk-formula-379921.jpg?v=1685319634"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Holle<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            33.99 - 371.88
+            <a href="https://themilkybox.com/products/holle-goat-milk-stage-4-organic-todler-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul data-mce-fragment="1">
+<li style="font-weight: 400;"><span style="font-weight: 400;">Whole Organic Goat’s Milk</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Palm Oil and Coconut Oil Free </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Fish Oil Free DHA</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12+ Months</s:tag>
+    <s:tag>A2 Milk</s:tag>
+    <s:tag>Goat Milk</s:tag>
+    <s:tag>Holle</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Stage 4</s:tag>
+    <s:tag>Toddler</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7980395004117</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>europa-Holle-Goat-Stage4-Single</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7980395004117</id>
+      <title>8 Pack</title>
+      <s:price currency="USD">263.92</s:price>
+      <s:sku>euro-Holle-Goat-Stage4-8Pack</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7980395004117</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">371.88</s:price>
+      <s:sku>euro-Holle-Goat-Stage4-12Pack</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7980394184917</id>
+    <published>2023-05-23T13:22:04-05:00</published>
+    <updated>2023-05-23T13:22:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/holle-goat-stage-pre-organic-infant-baby-formula"/>
+    <title>Holle Goat Stage PRE (400g) Organic Infant Baby Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>Holle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/holle-goat-stage-pre-400g-organic-infant-baby-formula-798269.jpg?v=1685319652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Holle<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            33.99 - 371.88
+            <a href="https://themilkybox.com/products/holle-goat-stage-pre-organic-infant-baby-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul data-mce-fragment="1">
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">DHA (omega-3) from algae oil</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Palm oil Free</span></li>
+<li style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Organic A2 goat’s milk protein</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-6 months</s:tag>
+    <s:tag>A2 Milk</s:tag>
+    <s:tag>Goat Milk</s:tag>
+    <s:tag>Holle</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Stage PRE</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7980394184917</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>europa-Holle-Goat-StagePre-Single</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7980394184917</id>
+      <title>8 Pack</title>
+      <s:price currency="USD">263.92</s:price>
+      <s:sku>neder-Holle-Goat-StagePre-8Pack</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7980394184917</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">371.88</s:price>
+      <s:sku>neder-Holle-Goat-StagePre-12Pack</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7914528506069</id>
+    <published>2022-11-07T11:29:06-06:00</published>
+    <updated>2022-11-07T11:29:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/holle-a2-stage-2-organic-baby-formula"/>
+    <title>Holle A2 Stage 2 (400g) Organic Baby Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>Holle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/holle-a2-stage-2-400g-organic-baby-formula-364266.jpg?v=1684167472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Holle<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            31.79 - 345.48
+            <a href="https://themilkybox.com/products/holle-a2-stage-2-organic-baby-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Organic A2 Cow’s Milk</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">ALA omega-3 fatty acid</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Held to Europe’s highest standards for organic nutrition</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6+ Months</s:tag>
+    <s:tag>6-10 months</s:tag>
+    <s:tag>A2 Milk</s:tag>
+    <s:tag>Allergies</s:tag>
+    <s:tag>Gassiness</s:tag>
+    <s:tag>Holle</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Stage2</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914528506069</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">31.79</s:price>
+      <s:sku>europa-Holle-A2-Stage2-Single</s:sku>
+      <s:grams>989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914528506069</id>
+      <title>8 Pack</title>
+      <s:price currency="USD">246.32</s:price>
+      <s:sku>neder-Holle-A2-Stage2-8Pack</s:sku>
+      <s:grams>5933</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914528506069</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">345.48</s:price>
+      <s:sku>neder-Holle-A2-Stage2-12Pack</s:sku>
+      <s:grams>11866</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7914515988693</id>
+    <published>2022-11-07T11:29:05-06:00</published>
+    <updated>2022-11-07T11:29:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/holle-a2-stage-1-organic-baby-formula"/>
+    <title>Holle A2 Stage 1 (400g) Organic Baby Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>Holle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/holle-a2-stage-1-400g-organic-baby-formula-912143.jpg?v=1684167473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Holle<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            31.79 - 345.48
+            <a href="https://themilkybox.com/products/holle-a2-stage-1-organic-baby-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Pure Organic Formula</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">A2 Cow’s Milk Protein</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">100% Recyclable Carton</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-6 months</s:tag>
+    <s:tag>A2 Milk</s:tag>
+    <s:tag>Allergies</s:tag>
+    <s:tag>Gassiness</s:tag>
+    <s:tag>Holle</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Sensitive</s:tag>
+    <s:tag>Stage 1</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914515988693</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">31.79</s:price>
+      <s:sku>europa-Holle-A2-Stage1-Single</s:sku>
+      <s:grams>989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914515988693</id>
+      <title>8 Pack</title>
+      <s:price currency="USD">246.32</s:price>
+      <s:sku>neder-Holle-A2-Stage1-8Pack</s:sku>
+      <s:grams>5933</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914515988693</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">345.48</s:price>
+      <s:sku>neder-Holle-A2-Stage1-12Pack</s:sku>
+      <s:grams>11866</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7914500686037</id>
+    <published>2022-11-07T11:29:04-06:00</published>
+    <updated>2022-11-07T11:29:04-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/holle-goat-dutch-stage-3-organic-baby-formula"/>
+    <title>Holle Goat Dutch Stage 3 (800g) Organic Toddler Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>Holle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/holle-goat-dutch-stage-3-800g-organic-toddler-formula-357039.jpg?v=1684167481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Holle<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            62.99 - 719.88
+            <a href="https://themilkybox.com/products/holle-goat-dutch-stage-3-organic-baby-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Whole organic A2 goat’s milk</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Fish Oil Free</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">DHA &amp; Omega 3 for Brain Development</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10+ Months</s:tag>
+    <s:tag>Allergies</s:tag>
+    <s:tag>Dutch</s:tag>
+    <s:tag>Gassiness</s:tag>
+    <s:tag>Goat Milk</s:tag>
+    <s:tag>Holle</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Sensitive</s:tag>
+    <s:tag>Stage 3</s:tag>
+    <s:tag>Toddler</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914500686037</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>europa-Holle-Goat-Dutch-Stage3-Single</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914500686037</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">371.94</s:price>
+      <s:sku>neder-Holle-Goat-Dutch-Stage3-6Pack</s:sku>
+      <s:grams>5933</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914500686037</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">719.88</s:price>
+      <s:sku>neder-Holle-Goat-Dutch-Stage3-12Pack</s:sku>
+      <s:grams>11866</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7914458153173</id>
+    <published>2022-11-07T11:29:04-06:00</published>
+    <updated>2022-11-07T11:29:04-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/holle-goat-dutch-stage-2-organic-baby-formula"/>
+    <title>Holle Goat Dutch Stage 2 (800g) Organic Baby Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>Holle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/holle-goat-dutch-stage-2-800g-organic-baby-formula-746962.jpg?v=1684167480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Holle<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            62.99 - 719.88
+            <a href="https://themilkybox.com/products/holle-goat-dutch-stage-2-organic-baby-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Organic A2 Goat Milk</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Rich in Omega-3 (DHA &amp; ALA)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Prebiotics for a healthy gut flora</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6+ Months</s:tag>
+    <s:tag>6-10 months</s:tag>
+    <s:tag>Allergies</s:tag>
+    <s:tag>Dutch</s:tag>
+    <s:tag>Gassiness</s:tag>
+    <s:tag>Goat Milk</s:tag>
+    <s:tag>Holle</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Stage2</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914458153173</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>europa-Holle-Goat-Dutch-Stage2-Single</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914458153173</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">371.94</s:price>
+      <s:sku>neder-Holle-Goat-Dutch-Stage2-6Pack</s:sku>
+      <s:grams>5933</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914458153173</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">719.88</s:price>
+      <s:sku>neder-Holle-Goat-Dutch-Stage2-12Pack</s:sku>
+      <s:grams>11866</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7914442784981</id>
+    <published>2022-11-07T11:29:03-06:00</published>
+    <updated>2022-11-07T11:29:03-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/holle-goat-dutch-stage-1-organic-baby-formula"/>
+    <title>Holle Goat Dutch Stage 1 (800g) Organic Baby Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>Holle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/holle-goat-dutch-stage-1-800g-organic-baby-formula-917932.jpg?v=1684167477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Holle<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            62.99 - 719.88
+            <a href="https://themilkybox.com/products/holle-goat-dutch-stage-1-organic-baby-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">DHA (omega-3) from algae oil</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Palm oil Free</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Organic A2 goat’s milk protein</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-6 months</s:tag>
+    <s:tag>Allergies</s:tag>
+    <s:tag>Dutch</s:tag>
+    <s:tag>Goat Milk</s:tag>
+    <s:tag>Holle</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Sensitive</s:tag>
+    <s:tag>Stage 1</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914442784981</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>europa-Holle-Goat-Dutch-Stage1-Single</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914442784981</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">371.92</s:price>
+      <s:sku>euro-Holle-Goat-Dutch-Stage1-6Pack</s:sku>
+      <s:grams>5933</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914442784981</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">719.88</s:price>
+      <s:sku>euro-Holle-Goat-Dutch-Stage1-12Pack</s:sku>
+      <s:grams>11866</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7914426269909</id>
+    <published>2022-11-07T11:29:03-06:00</published>
+    <updated>2022-11-07T11:29:03-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/holle-goat-stage-3-organic-baby-formula"/>
+    <title>Holle Goat Stage 3 (400g) Organic Toddler Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>Holle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/holle-goat-stage-3-400g-organic-toddler-formula-764161.jpg?v=1684167479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Holle<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            33.99 - 371.88
+            <a href="https://themilkybox.com/products/holle-goat-stage-3-organic-baby-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Whole organic goat’s milk</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Palm Oil and Coconut Oil Free </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Fish Oil Free DHA</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10+ Months</s:tag>
+    <s:tag>Allergies</s:tag>
+    <s:tag>Gassiness</s:tag>
+    <s:tag>Goat Milk</s:tag>
+    <s:tag>Holle</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Sensitive</s:tag>
+    <s:tag>Stage 3</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914426269909</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>europa-Holle-Goat-Stage3-Single</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914426269909</id>
+      <title>8 Pack</title>
+      <s:price currency="USD">263.92</s:price>
+      <s:sku>neder-Holle-Goat-Stage3-8Pack</s:sku>
+      <s:grams>4110</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914426269909</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">371.88</s:price>
+      <s:sku>neder-Holle-Goat-Stage3-12Pack</s:sku>
+      <s:grams>8219</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7914417291477</id>
+    <published>2022-11-07T11:29:02-06:00</published>
+    <updated>2022-11-07T11:29:02-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/holle-goat-stage-2-organic-baby-formula"/>
+    <title>Holle Goat Stage 2 (400g) Organic Baby Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>Holle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/holle-goat-stage-2-400g-organic-baby-formula-744062.jpg?v=1684167478"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Holle<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            33.99 - 371.88
+            <a href="https://themilkybox.com/products/holle-goat-stage-2-organic-baby-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">DHA 1 (omega-3) from algae oil</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">A2 goat’s milk protein</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Palm Oil Free </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6+ Months</s:tag>
+    <s:tag>6-10 months</s:tag>
+    <s:tag>Allergies</s:tag>
+    <s:tag>Gassiness</s:tag>
+    <s:tag>Goat Milk</s:tag>
+    <s:tag>Holle</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Stage2</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914417291477</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>europa-Holle-Goat-Stage2-Single</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914417291477</id>
+      <title>8 Pack</title>
+      <s:price currency="USD">263.92</s:price>
+      <s:sku>neder-Holle-Goat-Stage2-8Pack</s:sku>
+      <s:grams>4110</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914417291477</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">371.88</s:price>
+      <s:sku>neder-Holle-Goat-Stage2-12Pack</s:sku>
+      <s:grams>8219</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7914386391253</id>
+    <published>2022-11-07T11:29:01-06:00</published>
+    <updated>2022-11-07T11:29:01-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/holle-bio-stage-4"/>
+    <title>Holle Bio Stage 4 (600g) Organic Toddler Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>Holle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/holle-bio-stage-4-600g-organic-toddler-formula-533609.jpg?v=1684167473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Holle<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            34.49 - 377.88
+            <a href="https://themilkybox.com/products/holle-bio-stage-4">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+  <li>Demeter Organic</li>
+  <li>Complement to newly formed solid food diet</li>
+  <li>Great taste and texture</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12+ Months</s:tag>
+    <s:tag>Cow</s:tag>
+    <s:tag>Holle</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Stage 4</s:tag>
+    <s:tag>Toddler</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914386391253</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">34.49</s:price>
+      <s:sku>europa-Holle-Bio-Stage4-Single</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914386391253</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">200.94</s:price>
+      <s:sku>neder-Holle-Bio-Stage4-6Pack</s:sku>
+      <s:grams>4110</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914386391253</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">377.88</s:price>
+      <s:sku>neder-Holle-Bio-Stage4-12Pack</s:sku>
+      <s:grams>8219</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7914384031957</id>
+    <published>2022-11-07T11:29:01-06:00</published>
+    <updated>2022-11-07T11:29:01-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/holle-bio-stage-3"/>
+    <title>Holle Bio Stage 3 (600g) Organic Toddler Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>Holle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/holle-bio-stage-3-600g-organic-toddler-formula-739339.jpg?v=1684167473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Holle<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            34.49 - 377.88
+            <a href="https://themilkybox.com/products/holle-bio-stage-3">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Highest Organic Standards in Europe: Demeter</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Simple ingredients that support cognitive and physical growth and development</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Prebiotics &amp; Probiotics</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10+ Months</s:tag>
+    <s:tag>Cow</s:tag>
+    <s:tag>Holle</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Stage 3</s:tag>
+    <s:tag>Toddler</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914384031957</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">34.49</s:price>
+      <s:sku>europa-Holle-Bio-Stage3-Single</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914384031957</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">200.94</s:price>
+      <s:sku>neder-Holle-Bio-Stage3-6Pack</s:sku>
+      <s:grams>4110</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914384031957</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">377.88</s:price>
+      <s:sku>neder-Holle-Bio-Stage3-12Pack</s:sku>
+      <s:grams>8219</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7914373349589</id>
+    <published>2022-11-07T11:29:00-06:00</published>
+    <updated>2022-11-07T11:29:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/holle-bio-stage-2"/>
+    <title>Holle Bio Stage 2 (600g) Organic Baby Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>Holle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/holle-bio-stage-2-600g-organic-baby-formula-952547.jpg?v=1684167470"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Holle<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            34.49 - 377.88
+            <a href="https://themilkybox.com/products/holle-bio-stage-2">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Designed to mimic breast milk for easy absorption</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Held to Europe’s highest standards for organic nutrition</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">ALA omega-3 fatty acid</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6-10 months</s:tag>
+    <s:tag>Cow</s:tag>
+    <s:tag>Holle</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Stage2</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914373349589</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">34.49</s:price>
+      <s:sku>europa-Holle-Bio-Stage2-Single</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914373349589</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">200.94</s:price>
+      <s:sku>neder-Holle-Bio-Stage2-6Pack</s:sku>
+      <s:grams>4110</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914373349589</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">377.88</s:price>
+      <s:sku>neder-Holle-Bio-Stage2-12Pack</s:sku>
+      <s:grams>8219</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7914318201045</id>
+    <published>2022-11-07T11:28:53-06:00</published>
+    <updated>2022-11-07T11:28:53-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/holle-bio-stage-1"/>
+    <title>Holle Bio Stage 1 (400g) Organic Baby Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>Holle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/holle-bio-stage-1-400g-organic-baby-formula-770004.jpg?v=1684167473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Holle<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            28.99 - 311.88
+            <a href="https://themilkybox.com/products/holle-bio-stage-1">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">100% Organic Formula</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Fish Oil Free</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">DHA &amp; Omega 3 for Brain Development </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-6 months</s:tag>
+    <s:tag>Cow</s:tag>
+    <s:tag>Holle</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Stage 1</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914318201045</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>europa-Holle-Bio-Stage1-Single</s:sku>
+      <s:grams>445</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914318201045</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">167.94</s:price>
+      <s:sku>euro-Holle-Bio-Stage1-6Pack</s:sku>
+      <s:grams>2667</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914318201045</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">311.88</s:price>
+      <s:sku>neder-Holle-Bio-Stage1-12Pack</s:sku>
+      <s:grams>5334</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7914039050453</id>
+    <published>2022-11-07T11:28:52-06:00</published>
+    <updated>2022-11-07T11:28:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/holle-bio-pre"/>
+    <title>Holle Bio PRE (400g) Organic Baby Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>Holle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/holle-bio-pre-400g-organic-baby-formula-135364.jpg?v=1684167472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Holle<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            28.99 - 311.88
+            <a href="https://themilkybox.com/products/holle-bio-pre">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">100% Organic Formula</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">No Maltodextrin (starch)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">DHA &amp; Omega 3 for Brain Development </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-6 months</s:tag>
+    <s:tag>Cow</s:tag>
+    <s:tag>German</s:tag>
+    <s:tag>Holle</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Stage PRE</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914039050453</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>europa-Holle-Bio-PRE-Single</s:sku>
+      <s:grams>612</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914039050453</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">167.94</s:price>
+      <s:sku>neder-Holle-Bio-PRE-6Pack</s:sku>
+      <s:grams>3456</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914039050453</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">311.88</s:price>
+      <s:sku>neder-Holle-Bio-PRE-12Pack</s:sku>
+      <s:grams>6913</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7914535452885</id>
+    <published>2022-11-03T13:57:57-05:00</published>
+    <updated>2022-11-03T13:57:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/hollea2-stage-3-organic-toddler-formula"/>
+    <title>Holle A2 Stage 3 (400g) Organic Toddler Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>Holle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/holle-a2-stage-3-400g-organic-toddler-formula-257018.jpg?v=1684167472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Holle<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            31.79 - 345.48
+            <a href="https://themilkybox.com/products/hollea2-stage-3-organic-toddler-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Demeter A2 Milk</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">DHA- Brain Development</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">ALA omega-3 fatty acid </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10+ Months</s:tag>
+    <s:tag>Allergies</s:tag>
+    <s:tag>Dutch</s:tag>
+    <s:tag>Gassiness</s:tag>
+    <s:tag>Holle</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Sensitive</s:tag>
+    <s:tag>Stage 3</s:tag>
+    <s:tag>Toddler</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914535452885</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">31.79</s:price>
+      <s:sku>europa-Holle-A2-Stage3-Single</s:sku>
+      <s:grams>989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914535452885</id>
+      <title>8 Pack</title>
+      <s:price currency="USD">246.32</s:price>
+      <s:sku>neder-Holle-A2-Stage3-8Pack</s:sku>
+      <s:grams>5933</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914535452885</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">345.48</s:price>
+      <s:sku>neder-Holle-A2-Stage3-12Pack</s:sku>
+      <s:grams>11866</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7914400645333</id>
+    <published>2022-11-03T12:56:07-05:00</published>
+    <updated>2022-11-03T12:56:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/holle-goat-milk-stage-1-organic-baby-formula"/>
+    <title>Holle Goat Stage 1 (400g) Organic Baby Formula</title>
+    <s:type>Organic Formula</s:type>
+    <s:vendor>Holle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/holle-goat-stage-1-400g-organic-baby-formula-699386.jpg?v=1684167477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Holle<br>
+        <strong>Type: </strong>Organic Formula<br>
+        <strong>Price: </strong>
+            33.99 - 371.88
+            <a href="https://themilkybox.com/products/holle-goat-milk-stage-1-organic-baby-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">DHA (omega-3) from algae oil</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Palm oil Free</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Organic A2 goat’s milk protein</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-6 months</s:tag>
+    <s:tag>Goat Milk</s:tag>
+    <s:tag>Holle</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Organic Formula</s:tag>
+    <s:tag>Sensitive</s:tag>
+    <s:tag>Stage 1</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914400645333</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>europa-Holle-Goat-Stage1-Single</s:sku>
+      <s:grams>467</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914400645333</id>
+      <title>8 Pack</title>
+      <s:price currency="USD">263.92</s:price>
+      <s:sku>neder-Holle-Goat-Stage1-8Pack</s:sku>
+      <s:grams>2504</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7914400645333</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">371.88</s:price>
+      <s:sku>neder-Holle-Goat-Stage1-12Pack</s:sku>
+      <s:grams>5008</s:grams>
+    </s:variant>
+  </entry>
+</feed>

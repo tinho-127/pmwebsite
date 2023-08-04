@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://themilkybox.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://themilkybox.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://themilkybox.com/collections/nannycare-formula.atom"/>
+  <title>The Milky Box</title>
+  <updated>2022-11-07T11:29:27-06:00</updated>
+  <author>
+    <name>The Milky Box</name>
+  </author>
+  <entry>
+    <id>https://themilkybox.com/products/7915906105557</id>
+    <published>2022-11-07T11:29:27-06:00</published>
+    <updated>2022-11-07T11:29:27-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/nanny-goat-stage-2-organic-baby-formula"/>
+    <title>Nannycare Goat Stage 2 (900g) Baby Formula</title>
+    <s:type>Formula</s:type>
+    <s:vendor>Nannycare</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/nannycare-goat-stage-2-900g-baby-formula-112087.jpg?v=1684167498"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannycare<br>
+        <strong>Type: </strong>Formula<br>
+        <strong>Price: </strong>
+            62.99 - 719.88
+            <a href="https://themilkybox.com/products/nanny-goat-stage-2-organic-baby-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">No Skim Milk, Full Cream Goat Milk Only</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Starch Free</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Palm Oil Free</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12+ Months</s:tag>
+    <s:tag>6+ Months</s:tag>
+    <s:tag>6-12 months</s:tag>
+    <s:tag>Formula</s:tag>
+    <s:tag>Goat Milk</s:tag>
+    <s:tag>Nannycare</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Sensitive</s:tag>
+    <s:tag>Stage 2</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915906105557</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>briton-Nannycare-Goat-Stage2-Single</s:sku>
+      <s:grams>576</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915906105557</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">371.94</s:price>
+      <s:sku>briton-Nannycare-Goat-Stage2-6Pack</s:sku>
+      <s:grams>3456</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915906105557</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">719.88</s:price>
+      <s:sku>briton-Nannycare-Goat-Stage2-12Pack</s:sku>
+      <s:grams>6913</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7915907743957</id>
+    <published>2022-11-07T11:29:26-06:00</published>
+    <updated>2022-11-07T11:29:26-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/nannycare-goat-stage-3-organic-baby-formula"/>
+    <title>Nannycare Goat Stage 3 (900g) Toddler Formula</title>
+    <s:type>Formula</s:type>
+    <s:vendor>Nannycare</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/nannycare-goat-stage-3-900g-toddler-formula-497396.jpg?v=1684167498"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannycare<br>
+        <strong>Type: </strong>Formula<br>
+        <strong>Price: </strong>
+            62.99 - 719.88
+            <a href="https://themilkybox.com/products/nannycare-goat-stage-3-organic-baby-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Full Cream Goat’s Milk</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Palm Oil and Coconut Oil Free </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Fish Oil Free DHA</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12+ Months</s:tag>
+    <s:tag>Formula</s:tag>
+    <s:tag>Goat Milk</s:tag>
+    <s:tag>Nannycare</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Sensitive</s:tag>
+    <s:tag>Stage 3</s:tag>
+    <s:tag>Toddler</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915907743957</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>briton-Nannycare-Goat-Stage3-Single</s:sku>
+      <s:grams>576</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915907743957</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">371.94</s:price>
+      <s:sku>briton-Nannycare-Goat-Stage3-6Pack</s:sku>
+      <s:grams>3456</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915907743957</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">719.88</s:price>
+      <s:sku>briton-Nannycare-Goat-Stage3-12Pack</s:sku>
+      <s:grams>6913</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://themilkybox.com/products/7915907317973</id>
+    <published>2022-11-07T11:29:26-06:00</published>
+    <updated>2022-11-07T11:29:26-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://themilkybox.com/products/nannycare-goat-stage-1-organic-baby-formula"/>
+    <title>Nannycare Goat Stage 1 (900g) Baby Formula</title>
+    <s:type>Formula</s:type>
+    <s:vendor>Nannycare</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0665/0678/4981/products/nannycare-goat-stage-1-900g-baby-formula-439528.jpg?v=1684167497"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannycare<br>
+        <strong>Type: </strong>Formula<br>
+        <strong>Price: </strong>
+            62.99 - 719.88
+            <a href="https://themilkybox.com/products/nannycare-goat-stage-1-organic-baby-formula">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Full Cream, Whole Goat Milk</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Palm oil Free</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">No Added Whey </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0-6 months</s:tag>
+    <s:tag>Formula</s:tag>
+    <s:tag>Goat Milk</s:tag>
+    <s:tag>Nannycare</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Sensitive</s:tag>
+    <s:tag>Stage 1</s:tag>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915907317973</id>
+      <title>Single Pack</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>briton-Nannycare-Goat-Stage1-Single</s:sku>
+      <s:grams>576</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915907317973</id>
+      <title>6 Pack</title>
+      <s:price currency="USD">371.94</s:price>
+      <s:sku>briton-Nannycare-Goat-Stage1-6Pack</s:sku>
+      <s:grams>3456</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://themilkybox.com/products/7915907317973</id>
+      <title>12 Pack</title>
+      <s:price currency="USD">719.88</s:price>
+      <s:sku>briton-Nannycare-Goat-Stage1-12Pack</s:sku>
+      <s:grams>6913</s:grams>
+    </s:variant>
+  </entry>
+</feed>
